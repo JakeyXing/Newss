@@ -19,6 +19,7 @@
 		CE08A34D199B529500A9489A /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CE08A335199B529500A9489A /* UIKit.framework */; };
 		CE08A355199B529500A9489A /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = CE08A353199B529500A9489A /* InfoPlist.strings */; };
 		CE08A357199B529500A9489A /* NewssTests.m in Sources */ = {isa = PBXBuildFile; fileRef = CE08A356199B529500A9489A /* NewssTests.m */; };
+		CE08A362199B547300A9489A /* RootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CE08A361199B547300A9489A /* RootViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +49,8 @@
 		CE08A352199B529500A9489A /* NewssTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "NewssTests-Info.plist"; sourceTree = "<group>"; };
 		CE08A354199B529500A9489A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		CE08A356199B529500A9489A /* NewssTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NewssTests.m; sourceTree = "<group>"; };
+		CE08A360199B547300A9489A /* RootViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RootViewController.h; sourceTree = "<group>"; };
+		CE08A361199B547300A9489A /* RootViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RootViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,6 +114,8 @@
 				CE08A341199B529500A9489A /* AppDelegate.m */,
 				CE08A343199B529500A9489A /* Images.xcassets */,
 				CE08A338199B529500A9489A /* Supporting Files */,
+				CE08A360199B547300A9489A /* RootViewController.h */,
+				CE08A361199B547300A9489A /* RootViewController.m */,
 			);
 			path = Newss;
 			sourceTree = "<group>";
@@ -241,6 +246,7 @@
 			files = (
 				CE08A342199B529500A9489A /* AppDelegate.m in Sources */,
 				CE08A33E199B529500A9489A /* main.m in Sources */,
+				CE08A362199B547300A9489A /* RootViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

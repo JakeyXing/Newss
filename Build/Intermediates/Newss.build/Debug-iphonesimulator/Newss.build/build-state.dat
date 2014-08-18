@@ -1,0 +1,1502 @@
+TNewss
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/user/Desktop/Code/Newss/Build/Intermediates/PrecompiledHeaders/Newss-Prefix-eslzvnmaebhfetanfvejfwsjqvtr/Newss-Prefix.pch.pch Newss/Newss-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/AppDelegate.o /Users/user/Desktop/Code/Newss/Newss/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/PictureViewController.o /Users/user/Desktop/Code/Newss/Newss/PictureViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/main.o /Users/user/Desktop/Code/Newss/Newss/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/CustomTabBarController.o /Users/user/Desktop/Code/Newss/Newss/CustomTabBarController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/VideoViewController.o /Users/user/Desktop/Code/Newss/Newss/VideoViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/JHTableView.o /Users/user/Desktop/Code/Newss/Newss/JHTableView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/Custom.o /Users/user/Desktop/Code/Newss/Newss/Custom.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/PictureDetailViewController.o /Users/user/Desktop/Code/Newss/Newss/PictureDetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/MarketViewController.o /Users/user/Desktop/Code/Newss/Newss/MarketViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/RootViewController.o /Users/user/Desktop/Code/Newss/Newss/RootViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/NavButtonModel.o /Users/user/Desktop/Code/Newss/Newss/NavButtonModel.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/SettingViewController.o /Users/user/Desktop/Code/Newss/Newss/SettingViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/CustomTabBar.o /Users/user/Desktop/Code/Newss/Newss/CustomTabBar.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/NewsViewController.o /Users/user/Desktop/Code/Newss/Newss/NewsViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app/Newss normal i386
+cCpResource Newss/navItemimage/returnBackground.png Build/Products/Debug-iphonesimulator/Newss.app/returnBackground.png
+cCpResource Newss/tabimage/AppIcon57x57.png Build/Products/Debug-iphonesimulator/Newss.app/AppIcon57x57.png
+cCopyPlistFile /Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app/tabBar.plist Newss/tabimage/tabBar.plist
+cCpResource Newss/nav/navibarbackground@2x.png Build/Products/Debug-iphonesimulator/Newss.app/navibarbackground@2x.png
+cCpResource Newss/tabimage/btnQ-h.png Build/Products/Debug-iphonesimulator/Newss.app/btnQ-h.png
+cCpResource Newss/tabimage/btnM-h.png Build/Products/Debug-iphonesimulator/Newss.app/btnM-h.png
+cCpResource Newss/tabimage/btnI-n.png Build/Products/Debug-iphonesimulator/Newss.app/btnI-n.png
+cCpResource Newss/navItemimage/favorite2.png Build/Products/Debug-iphonesimulator/Newss.app/favorite2.png
+cCpResource Newss/navItemimage/photo_down.png Build/Products/Debug-iphonesimulator/Newss.app/photo_down.png
+cCpResource Newss/navItemimage/share.png Build/Products/Debug-iphonesimulator/Newss.app/share.png
+cCpResource Newss/navItemimage/searchItem.png Build/Products/Debug-iphonesimulator/Newss.app/searchItem.png
+cCpResource Newss/tabimage/btnV-n.png Build/Products/Debug-iphonesimulator/Newss.app/btnV-n.png
+cCpResource Newss/navItemimage/favorite1.png Build/Products/Debug-iphonesimulator/Newss.app/favorite1.png
+cCopyStringsFile /Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app/en.lproj/InfoPlist.strings Newss/en.lproj/InfoPlist.strings
+cCpResource Newss/tabimage/btnV-h.png Build/Products/Debug-iphonesimulator/Newss.app/btnV-h.png
+cCpResource Newss/tabimage/btnM-n.png Build/Products/Debug-iphonesimulator/Newss.app/btnM-n.png
+cCpResource Newss/tabimage/btnP-h.png Build/Products/Debug-iphonesimulator/Newss.app/btnP-h.png
+cCpResource Newss/tabimage/AppIcon57x57@2x.png Build/Products/Debug-iphonesimulator/Newss.app/AppIcon57x57@2x.png
+cCpResource Newss/tabimage/btnP-n.png Build/Products/Debug-iphonesimulator/Newss.app/btnP-n.png
+cCpResource Newss/nav/naviback_n@2x.png Build/Products/Debug-iphonesimulator/Newss.app/naviback_n@2x.png
+cCpResource Newss/tabimage/btnQ-n.png Build/Products/Debug-iphonesimulator/Newss.app/btnQ-n.png
+cCpResource Newss/navItemimage/comBtn.png Build/Products/Debug-iphonesimulator/Newss.app/comBtn.png
+cCpResource Newss/tabimage/btnI-h.png Build/Products/Debug-iphonesimulator/Newss.app/btnI-h.png
+cCompileAssetCatalog /Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app /Users/user/Desktop/Code/Newss/Newss/Images.xcassets
+cProcessInfoPlistFile /Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app/Info.plist /Users/user/Desktop/Code/Newss/Newss/Newss-Info.plist
+cGenerateDSYMFile /Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app.dSYM /Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app/Newss
+cTouch /Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000531E1AEA00000000000003B4
+t1394481898
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000531E1AF5000000000000019E
+t1394481909
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c00000000531E1AF8000000000058E0E0
+t1394481912
+s5824736
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c00000000531E1AF900000000005B82F0
+t1394481913
+s5997296
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000531E1AF90000000000446820
+t1394481913
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+c00000000531E1AF900000000003599D0
+t1394481913
+s3512784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c00000000531E1AFA00000000002FC3B0
+t1394481914
+s3130288
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c00000000531E1AF9000000000004B000
+t1394481913
+s307200
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000531E1AFB000000000088D8C0
+t1394481915
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c00000000531E1AFC0000000000037680
+t1394481916
+s226944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c00000000531E1AFD000000000048F720
+t1394481917
+s4781856
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+c00000000531E1AFD000000000013FD70
+t1394481917
+s1310064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000531E1B020000000001F1DE10
+t1394481922
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c00000000531E1B1300000000002BC360
+t1394481939
+s2868064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+c00000000531E1B1E0000000000002338
+t1394481950
+s9016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+c00000000531E1B20000000000008D370
+t1394481952
+s578416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+c00000000531E1B1F0000000000392E20
+t1394481951
+s3747360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+c000000005376128100000000000141F0
+t1400246913
+s82416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+c00000000531E1B200000000000014A80
+t1394481952
+s84608
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+c00000000531E1B200000000000033BA0
+t1394481952
+s211872
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+c00000000531E1B20000000000001CFB0
+t1394481952
+s118704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+c00000000531E1B20000000000001B2B0
+t1394481952
+s111280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+c00000000531E1B2000000000000C9570
+t1394481952
+s824688
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+c00000000531E1B200000000000063280
+t1394481952
+s406144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+c00000000531E1B200000000000008880
+t1394481952
+s34944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+c00000000531E1B200000000000015080
+t1394481952
+s86144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+c00000000531E1B2000000000000230F0
+t1394481952
+s143600
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+c00000000531E1B20000000000000E380
+t1394481952
+s58240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+c00000000531E1B200000000000089380
+t1394481952
+s562048
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+c00000000531E1B200000000000017320
+t1394481952
+s95008
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+c00000000531E1B200000000000039CD0
+t1394481952
+s236752
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+c00000000531E1B20000000000000B0B0
+t1394481952
+s45232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+c00000000531E1B200000000000167E80
+t1394481952
+s1474176
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+c00000000531E1B2000000000000106A0
+t1394481952
+s67232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+c00000000531E1B20000000000001CE40
+t1394481952
+s118336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+c00000000531E1B2000000000000740C0
+t1394481952
+s475328
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+c00000000531E1B20000000000006CA60
+t1394481952
+s445024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+c00000000531E1B20000000000001BAD0
+t1394481952
+s113360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+c00000000531E1B200000000000084A20
+t1394481952
+s543264
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000531E1B3F0000000000000ADC
+t1394481983
+s2780
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+c00000000531E1B3F000000000000514C
+t1394481983
+s20812
+
+N/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/AppDelegate.o
+t1408095252
+s65772
+
+N/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/Custom.o
+t1408001124
+s49536
+
+N/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/CustomTabBar.o
+t1408095796
+s54232
+
+N/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/CustomTabBarController.o
+t1408095472
+s51228
+
+N/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/JHTableView.o
+t1408095125
+s78280
+
+N/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/MarketViewController.o
+t1408095125
+s40232
+
+N/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/NavButtonModel.o
+t1408095125
+s8708
+
+N/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/NewsViewController.o
+t1408095125
+s40192
+
+N/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/Newss.LinkFileList
+c0000000053EDD3930000000000000770
+t1408095123
+s1904
+
+N/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/PictureDetailViewController.o
+t1408095125
+s40360
+
+N/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/PictureViewController.o
+t1408095125
+s40252
+
+N/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/RootViewController.o
+t1408095796
+s68300
+
+N/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/SettingViewController.o
+t1408095125
+s40252
+
+N/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/VideoViewController.o
+t1408095125
+s40208
+
+N/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/main.o
+t1407923950
+s3508
+
+N/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/assetcatalog_dependencies.txt
+t1407923963
+s342
+
+N/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/assetcatalog_generated_info.plist
+t1407923963
+s525
+
+N/Users/user/Desktop/Code/Newss/Build/Intermediates/PrecompiledHeaders/Newss-Prefix-eslzvnmaebhfetanfvejfwsjqvtr/Newss-Prefix.pch.pch
+t1407923949
+s121600
+
+N/Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app
+t1408095796
+s1020
+
+N/Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app.dSYM
+t1408095704
+s102
+
+N/Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app/AppIcon57x57.png
+t1408095126
+s4602
+
+N/Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app/AppIcon57x57@2x.png
+t1408095126
+s6255
+
+N/Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app/Info.plist
+t1407923963
+s966
+
+N/Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app/Newss
+t1408095796
+s81872
+
+N/Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app/PkgInfo
+t1407923963
+s8
+
+N/Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app/btnI-h.png
+t1408095126
+s4596
+
+N/Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app/btnI-n.png
+t1408095126
+s3524
+
+N/Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app/btnM-h.png
+t1408095126
+s5551
+
+N/Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app/btnM-n.png
+t1408095126
+s3975
+
+N/Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app/btnP-h.png
+t1408095126
+s3642
+
+N/Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app/btnP-n.png
+t1408095126
+s2878
+
+N/Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app/btnQ-h.png
+t1408095126
+s3728
+
+N/Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app/btnQ-n.png
+t1408095126
+s2917
+
+N/Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app/btnV-h.png
+t1408095126
+s4210
+
+N/Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app/btnV-n.png
+t1408095126
+s3161
+
+N/Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app/comBtn.png
+t1408095126
+s3484
+
+N/Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app/en.lproj/InfoPlist.strings
+t1407923952
+s42
+
+N/Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app/favorite1.png
+t1408095126
+s3646
+
+N/Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app/favorite2.png
+t1408095126
+s3484
+
+N/Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app/naviback_n@2x.png
+t1408095126
+s2980
+
+N/Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app/navibarbackground@2x.png
+t1408095126
+s2986
+
+N/Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app/photo_down.png
+t1408095126
+s2924
+
+N/Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app/returnBackground.png
+t1408095126
+s2776
+
+N/Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app/searchItem.png
+t1408095126
+s3339
+
+N/Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app/share.png
+t1408095126
+s2692
+
+N/Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app/tabBar.plist
+t1408095126
+s171
+
+N/Users/user/Desktop/Code/Newss/Newss/AppDelegate.h
+c0000000053EB1B15000000000000010D
+t1407916821
+s269
+
+N/Users/user/Desktop/Code/Newss/Newss/AppDelegate.m
+c0000000053EDD412000000000000092C
+t1408095250
+s2348
+
+N/Users/user/Desktop/Code/Newss/Newss/Custom.h
+c0000000053EC64620000000000000189
+t1408001122
+s393
+
+N/Users/user/Desktop/Code/Newss/Newss/Custom.m
+c0000000053EC6462000000000000049C
+t1408001122
+s1180
+
+N/Users/user/Desktop/Code/Newss/Newss/CustomTabBar.h
+c0000000053EDD393000000000000028B
+t1408095123
+s651
+
+N/Users/user/Desktop/Code/Newss/Newss/CustomTabBar.m
+c0000000053EDD6330000000000000804
+t1408095795
+s2052
+
+N/Users/user/Desktop/Code/Newss/Newss/CustomTabBarController.h
+c0000000053EDD393000000000000010F
+t1408095123
+s271
+
+N/Users/user/Desktop/Code/Newss/Newss/CustomTabBarController.m
+c0000000053EDD4F000000000000007B8
+t1408095472
+s1976
+
+N/Users/user/Desktop/Code/Newss/Newss/Images.xcassets
+c0000000053EB1B150000000000000088
+t1407916821
+s136
+
+N/Users/user/Desktop/Code/Newss/Newss/JHTableView.h
+c0000000053ED6A9100000000000006EF
+t1408068241
+s1775
+
+N/Users/user/Desktop/Code/Newss/Newss/JHTableView.m
+c0000000053ED6A910000000000001669
+t1408068241
+s5737
+
+N/Users/user/Desktop/Code/Newss/Newss/MarketViewController.h
+c0000000053EDB29700000000000000E4
+t1408086679
+s228
+
+N/Users/user/Desktop/Code/Newss/Newss/MarketViewController.m
+c0000000053EDB2970000000000000429
+t1408086679
+s1065
+
+N/Users/user/Desktop/Code/Newss/Newss/NavButtonModel.h
+c0000000053EDA6160000000000000154
+t1408083478
+s340
+
+N/Users/user/Desktop/Code/Newss/Newss/NavButtonModel.m
+c0000000053EDA1C900000000000000C4
+t1408082377
+s196
+
+N/Users/user/Desktop/Code/Newss/Newss/NewsViewController.h
+c0000000053EDB27800000000000000E0
+t1408086648
+s224
+
+N/Users/user/Desktop/Code/Newss/Newss/NewsViewController.m
+c0000000053EDB2780000000000000421
+t1408086648
+s1057
+
+N/Users/user/Desktop/Code/Newss/Newss/Newss-Info.plist
+c0000000053EB1B15000000000000048C
+t1407916821
+s1164
+
+N/Users/user/Desktop/Code/Newss/Newss/Newss-Prefix.pch
+c0000000053EB1B150000000000000158
+t1407916821
+s344
+
+N/Users/user/Desktop/Code/Newss/Newss/PictureDetailViewController.h
+c0000000053EDB2F200000000000000F2
+t1408086770
+s242
+
+N/Users/user/Desktop/Code/Newss/Newss/PictureDetailViewController.m
+c0000000053EDB2F20000000000000445
+t1408086770
+s1093
+
+N/Users/user/Desktop/Code/Newss/Newss/PictureViewController.h
+c0000000053EDB2BD00000000000000E6
+t1408086717
+s230
+
+N/Users/user/Desktop/Code/Newss/Newss/PictureViewController.m
+c0000000053EDB2BD000000000000042D
+t1408086717
+s1069
+
+N/Users/user/Desktop/Code/Newss/Newss/RootViewController.h
+c0000000053ED7D920000000000000183
+t1408073106
+s387
+
+N/Users/user/Desktop/Code/Newss/Newss/RootViewController.m
+c0000000053EDD6330000000000000C74
+t1408095795
+s3188
+
+N/Users/user/Desktop/Code/Newss/Newss/SettingViewController.h
+c0000000053EDB2CC00000000000000E6
+t1408086732
+s230
+
+N/Users/user/Desktop/Code/Newss/Newss/SettingViewController.m
+c0000000053EDB2CC000000000000042D
+t1408086732
+s1069
+
+N/Users/user/Desktop/Code/Newss/Newss/VideoViewController.h
+c0000000053EDB2A700000000000000E2
+t1408086695
+s226
+
+N/Users/user/Desktop/Code/Newss/Newss/VideoViewController.m
+c0000000053EDB2A70000000000000425
+t1408086695
+s1061
+
+N/Users/user/Desktop/Code/Newss/Newss/en.lproj/InfoPlist.strings
+c0000000053EB1B15000000000000002D
+t1407916821
+s45
+
+N/Users/user/Desktop/Code/Newss/Newss/main.m
+c0000000053EB1B150000000000000149
+t1407916821
+s329
+
+N/Users/user/Desktop/Code/Newss/Newss/nav/naviback_n@2x.png
+c00000000528784DE0000000000000BA4
+t1384613086
+s2980
+
+N/Users/user/Desktop/Code/Newss/Newss/nav/navibarbackground@2x.png
+c00000000528784BE0000000000000BAA
+t1384613054
+s2986
+
+N/Users/user/Desktop/Code/Newss/Newss/navItemimage/comBtn.png
+c0000000052884C000000000000000D9C
+t1384664064
+s3484
+
+N/Users/user/Desktop/Code/Newss/Newss/navItemimage/favorite1.png
+c0000000052884C1A0000000000000E3E
+t1384664090
+s3646
+
+N/Users/user/Desktop/Code/Newss/Newss/navItemimage/favorite2.png
+c0000000052884C260000000000000D9C
+t1384664102
+s3484
+
+N/Users/user/Desktop/Code/Newss/Newss/navItemimage/photo_down.png
+c0000000052884C660000000000000B6C
+t1384664166
+s2924
+
+N/Users/user/Desktop/Code/Newss/Newss/navItemimage/returnBackground.png
+c0000000052884C580000000000000AD8
+t1384664152
+s2776
+
+N/Users/user/Desktop/Code/Newss/Newss/navItemimage/searchItem.png
+c0000000052884C500000000000000D0B
+t1384664144
+s3339
+
+N/Users/user/Desktop/Code/Newss/Newss/navItemimage/share.png
+c0000000052884C400000000000000A84
+t1384664128
+s2692
+
+N/Users/user/Desktop/Code/Newss/Newss/tabimage/AppIcon57x57.png
+c00000000526DBC0A00000000000011FA
+t1382923274
+s4602
+
+N/Users/user/Desktop/Code/Newss/Newss/tabimage/AppIcon57x57@2x.png
+c00000000526DBC0A000000000000186F
+t1382923274
+s6255
+
+N/Users/user/Desktop/Code/Newss/Newss/tabimage/btnI-h.png
+c00000000526DBC0A00000000000011F4
+t1382923274
+s4596
+
+N/Users/user/Desktop/Code/Newss/Newss/tabimage/btnI-n.png
+c00000000526DBC0A0000000000000DC4
+t1382923274
+s3524
+
+N/Users/user/Desktop/Code/Newss/Newss/tabimage/btnM-h.png
+c00000000526DBC0A00000000000015AF
+t1382923274
+s5551
+
+N/Users/user/Desktop/Code/Newss/Newss/tabimage/btnM-n.png
+c00000000526DBC0A0000000000000F87
+t1382923274
+s3975
+
+N/Users/user/Desktop/Code/Newss/Newss/tabimage/btnP-h.png
+c00000000526DBC0A0000000000000E3A
+t1382923274
+s3642
+
+N/Users/user/Desktop/Code/Newss/Newss/tabimage/btnP-n.png
+c00000000526DBC0A0000000000000B3E
+t1382923274
+s2878
+
+N/Users/user/Desktop/Code/Newss/Newss/tabimage/btnQ-h.png
+c00000000526DBC0A0000000000000E90
+t1382923274
+s3728
+
+N/Users/user/Desktop/Code/Newss/Newss/tabimage/btnQ-n.png
+c00000000526DBC0A0000000000000B65
+t1382923274
+s2917
+
+N/Users/user/Desktop/Code/Newss/Newss/tabimage/btnV-h.png
+c00000000526DBC0A0000000000001072
+t1382923274
+s4210
+
+N/Users/user/Desktop/Code/Newss/Newss/tabimage/btnV-n.png
+c00000000526DBC0A0000000000000C59
+t1382923274
+s3161
+
+N/Users/user/Desktop/Code/Newss/Newss/tabimage/tabBar.plist
+c0000000052F9D42C000000000000021B
+t1392104492
+s539
+
+N/usr/lib/libSystem.B.dylib
+c0000000053761261000000000000E6D0
+t1400246881
+s59088
+
+N/usr/lib/system/libcache.dylib
+c000000005347AC8A0000000000012A00
+t1397206154
+s76288
+
+N/usr/lib/system/libcommonCrypto.dylib
+c000000005347AC60000000000002E320
+t1397206112
+s189216
+
+N/usr/lib/system/libcompiler_rt.dylib
+c000000005347AC740000000000021860
+t1397206132
+s137312
+
+N/usr/lib/system/libcopyfile.dylib
+c000000005347AC89000000000001B620
+t1397206153
+s112160
+
+N/usr/lib/system/libcorecrypto.dylib
+c000000005347AC8900000000000BD920
+t1397206153
+s776480
+
+N/usr/lib/system/libdyld.dylib
+c000000005376128100000000000141F0
+t1400246913
+s82416
+
+N/usr/lib/system/libkeymgr.dylib
+c000000005347AC8A000000000000A120
+t1397206154
+s41248
+
+N/usr/lib/system/liblaunch.dylib
+c0000000053761281000000000001D550
+t1400246913
+s120144
+
+N/usr/lib/system/libmacho.dylib
+c000000005347AC880000000000014EE0
+t1397206152
+s85728
+
+N/usr/lib/system/libquarantine.dylib
+c000000005347AC8C0000000000010380
+t1397206156
+s66432
+
+N/usr/lib/system/libremovefile.dylib
+c000000005347AC8C000000000000C4C0
+t1397206156
+s50368
+
+N/usr/lib/system/libsystem_asl.dylib
+c000000005347AC8A00000000000357A0
+t1397206154
+s219040
+
+N/usr/lib/system/libsystem_blocks.dylib
+c000000005347AC8A000000000000C070
+t1397206154
+s49264
+
+N/usr/lib/system/libsystem_c.dylib
+c00000000537612610000000000168D00
+t1400246881
+s1477888
+
+N/usr/lib/system/libsystem_configuration.dylib
+c000000005376127D0000000000010630
+t1400246909
+s67120
+
+N/usr/lib/system/libsystem_dnssd.dylib
+c0000000053761282000000000001DF10
+t1400246914
+s122640
+
+N/usr/lib/system/libsystem_info.dylib
+c000000005347AC740000000000075B00
+t1397206132
+s482048
+
+N/usr/lib/system/libsystem_kernel.dylib
+c0000000053761261000000000007CD60
+t1400246881
+s511328
+
+N/usr/lib/system/libsystem_m.dylib
+c000000005347AC7400000000000766C0
+t1397206132
+s485056
+
+N/usr/lib/system/libsystem_malloc.dylib
+c00000000537612810000000000044DC0
+t1400246913
+s282048
+
+N/usr/lib/system/libsystem_notify.dylib
+c000000005347AC740000000000021FA0
+t1397206132
+s139168
+
+N/usr/lib/system/libsystem_platform.dylib
+c0000000053761281000000000002D920
+t1400246913
+s186656
+
+N/usr/lib/system/libsystem_pthread.dylib
+c000000005347AC8A000000000001E570
+t1397206154
+s124272
+
+N/usr/lib/system/libsystem_sandbox.dylib
+c0000000053761272000000000000CC70
+t1400246898
+s52336
+
+N/usr/lib/system/libunc.dylib
+c000000005347AC82000000000000C3F0
+t1397206146
+s50160
+
+N/usr/lib/system/libunwind.dylib
+c000000005347AC8B00000000000199F0
+t1397206155
+s104944
+
+CBuild AST from /Users/user/Desktop/Code/Newss/Newss/AppDelegate.m
+r0
+
+CBuild AST from /Users/user/Desktop/Code/Newss/Newss/Custom.m
+r0
+
+CBuild AST from /Users/user/Desktop/Code/Newss/Newss/CustomTabBar.m
+r0
+
+CBuild AST from /Users/user/Desktop/Code/Newss/Newss/CustomTabBarController.m
+r0
+
+CBuild AST from /Users/user/Desktop/Code/Newss/Newss/JHTableView.m
+r0
+
+CBuild AST from /Users/user/Desktop/Code/Newss/Newss/MarketViewController.m
+r0
+
+CBuild AST from /Users/user/Desktop/Code/Newss/Newss/NavButtonModel.m
+r0
+
+CBuild AST from /Users/user/Desktop/Code/Newss/Newss/NewsViewController.m
+r0
+
+CBuild AST from /Users/user/Desktop/Code/Newss/Newss/PictureDetailViewController.m
+r0
+
+CBuild AST from /Users/user/Desktop/Code/Newss/Newss/PictureViewController.m
+r0
+
+CBuild AST from /Users/user/Desktop/Code/Newss/Newss/RootViewController.m
+r0
+
+CBuild AST from /Users/user/Desktop/Code/Newss/Newss/SettingViewController.m
+r0
+
+CBuild AST from /Users/user/Desktop/Code/Newss/Newss/VideoViewController.m
+r0
+
+CBuild AST from /Users/user/Desktop/Code/Newss/Newss/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies9dd7ecb30d9eb941^0839efb30d9eb941^---0#1#1#--18"Check dependencies36"F0BCE62A-3A28-43F5-8110-CF6669636049-
+
+CCompileAssetCatalog /Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app /Users/user/Desktop/Code/Newss/Newss/Images.xcassets
+s429616752.037960
+e429616763.451789
+r1
+xCompileAssetCatalog
+x/Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app
+x/Users/user/Desktop/Code/Newss/Newss/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app/LaunchImage-700-568h@2x.png
+o/Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app/Assets.car
+o/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"CompileAssetCatalog Build/Products/Debug-iphonesimulator/Newss.app Newss/Images.xcassets88"CompileAssetCatalog Build/Products/Debug-iphonesimulator/Newss.app Newss/Images.xcassetsa6ef0d706e9bb941^7ea9737b6e9bb941^-370"/* com.apple.actool.compilation-results *//Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app/LaunchImage-700-568h@2x.png/Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app/Assets.car/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@60"file:///Users/user/Desktop/Code/Newss/Newss/Images.xcassets/0000000000000000^1082"CompileAssetCatalog Build/Products/Debug-iphonesimulator/Newss.app Newss/Images.xcassets    cd /Users/user/Desktop/Code/Newss    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.1 --target-device iphone --compress-pngs --compile /Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app /Users/user/Desktop/Code/Newss/Newss/Images.xcassets36"A1EB73E1-81A4-4067-B306-65B3B08CCC5D-
+b84AFE50F-BEA5-40B1-B108-52F61C11E5FA
+
+CCompileC Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/AppDelegate.o /Users/user/Desktop/Code/Newss/Newss/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s429788051.124205
+e429788052.126239
+r1
+xCompileC
+xBuild/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/AppDelegate.o
+x/Users/user/Desktop/Code/Newss/Newss/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/user/Desktop/Code/Newss/Newss/AppDelegate.m
+d/Users/user/Desktop/Code/Newss/Newss/AppDelegate.h
+d/Users/user/Desktop/Code/Newss/Newss/CustomTabBarController.h
+d/Users/user/Desktop/Code/Newss/Newss/CustomTabBar.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Compile /Users/user/Desktop/Code/Newss/Newss/AppDelegate.m196"CompileC Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/AppDelegate.o Newss/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler01dd1f930b9eb941^935220940b9eb941^---0#0#1#-19%DVTDocumentLocation2@57"file:///Users/user/Desktop/Code/Newss/Newss/AppDelegate.m0000000000000000^3482"CompileC Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/AppDelegate.o Newss/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/user/Desktop/Code/Newss    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/user/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Newss-generated-files.hmap -I/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Newss-own-target-headers.hmap -I/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Newss-all-target-headers.hmap -iquote /Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Newss-project-headers.hmap -I/Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/DerivedSources/i386 -I/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/DerivedSources -F/Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator -include /Users/user/Desktop/Code/Newss/Build/Intermediates/PrecompiledHeaders/Newss-Prefix-eslzvnmaebhfetanfvejfwsjqvtr/Newss-Prefix.pch -MMD -MT dependencies -MF /Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/AppDelegate.dia -c /Users/user/Desktop/Code/Newss/Newss/AppDelegate.m -o /Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/AppDelegate.o36"8AB831FA-E3FD-4984-BF6A-A2058BB1BDF5-
+bD0E053D9-9510-4776-8B22-1945D8C7235D
+
+CCompileC Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/Custom.o /Users/user/Desktop/Code/Newss/Newss/Custom.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s429693922.844447
+e429693924.630328
+r1
+xCompileC
+xBuild/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/Custom.o
+x/Users/user/Desktop/Code/Newss/Newss/Custom.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/user/Desktop/Code/Newss/Newss/Custom.m
+d/Users/user/Desktop/Code/Newss/Newss/Custom.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Compile /Users/user/Desktop/Code/Newss/Newss/Custom.m186"CompileC Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/Custom.o Newss/Custom.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerbe4cd8e29b9cb941^4260a1e49b9cb941^---0#0#1#-19%DVTDocumentLocation2@52"file:///Users/user/Desktop/Code/Newss/Newss/Custom.m0000000000000000^3452"CompileC Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/Custom.o Newss/Custom.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/user/Desktop/Code/Newss    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/user/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Newss-generated-files.hmap -I/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Newss-own-target-headers.hmap -I/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Newss-all-target-headers.hmap -iquote /Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Newss-project-headers.hmap -I/Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/DerivedSources/i386 -I/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/DerivedSources -F/Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator -include /Users/user/Desktop/Code/Newss/Build/Intermediates/PrecompiledHeaders/Newss-Prefix-eslzvnmaebhfetanfvejfwsjqvtr/Newss-Prefix.pch -MMD -MT dependencies -MF /Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/Custom.d --serialize-diagnostics /Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/Custom.dia -c /Users/user/Desktop/Code/Newss/Newss/Custom.m -o /Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/Custom.o36"D091A6E1-2BC3-46B6-89D0-03F2295B9B8E-
+b80570B9A-3EFF-458F-B655-B434009AB464
+
+CCompileC Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/CustomTabBar.o /Users/user/Desktop/Code/Newss/Newss/CustomTabBar.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s429788595.932889
+e429788596.314189
+r1
+xCompileC
+xBuild/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/CustomTabBar.o
+x/Users/user/Desktop/Code/Newss/Newss/CustomTabBar.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/user/Desktop/Code/Newss/Newss/CustomTabBar.m
+d/Users/user/Desktop/Code/Newss/Newss/CustomTabBar.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Compile /Users/user/Desktop/Code/Newss/Newss/CustomTabBar.m198"CompileC Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/CustomTabBar.o Newss/CustomTabBar.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler37e1eeb30d9eb941^df6f50b40d9eb941^---0#0#1#-19%DVTDocumentLocation2@58"file:///Users/user/Desktop/Code/Newss/Newss/CustomTabBar.m0000000000000000^3488"CompileC Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/CustomTabBar.o Newss/CustomTabBar.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/user/Desktop/Code/Newss    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/user/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Newss-generated-files.hmap -I/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Newss-own-target-headers.hmap -I/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Newss-all-target-headers.hmap -iquote /Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Newss-project-headers.hmap -I/Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/DerivedSources/i386 -I/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/DerivedSources -F/Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator -include /Users/user/Desktop/Code/Newss/Build/Intermediates/PrecompiledHeaders/Newss-Prefix-eslzvnmaebhfetanfvejfwsjqvtr/Newss-Prefix.pch -MMD -MT dependencies -MF /Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/CustomTabBar.d --serialize-diagnostics /Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/CustomTabBar.dia -c /Users/user/Desktop/Code/Newss/Newss/CustomTabBar.m -o /Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/CustomTabBar.o36"9F788D44-4E93-4E13-9067-4AFFCE80CD76-
+b10E7E62B-1FF8-47C6-8EA3-56BE6649E8CB
+
+CCompileC Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/CustomTabBarController.o /Users/user/Desktop/Code/Newss/Newss/CustomTabBarController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s429788272.104234
+e429788272.204282
+r1
+xCompileC
+xBuild/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/CustomTabBarController.o
+x/Users/user/Desktop/Code/Newss/Newss/CustomTabBarController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/user/Desktop/Code/Newss/Newss/CustomTabBarController.m
+d/Users/user/Desktop/Code/Newss/Newss/CustomTabBarController.h
+d/Users/user/Desktop/Code/Newss/Newss/CustomTabBar.h
+d/Users/user/Desktop/Code/Newss/Newss/RootViewController.h
+d/Users/user/Desktop/Code/Newss/Newss/Custom.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Compile /Users/user/Desktop/Code/Newss/Newss/CustomTabBarController.m218"CompileC Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/CustomTabBarController.o Newss/CustomTabBarController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler3ac91a700c9eb941^f04c34700c9eb941^---0#0#1#-19%DVTDocumentLocation2@68"file:///Users/user/Desktop/Code/Newss/Newss/CustomTabBarController.m0000000000000000^3548"CompileC Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/CustomTabBarController.o Newss/CustomTabBarController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/user/Desktop/Code/Newss    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/user/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Newss-generated-files.hmap -I/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Newss-own-target-headers.hmap -I/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Newss-all-target-headers.hmap -iquote /Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Newss-project-headers.hmap -I/Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/DerivedSources/i386 -I/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/DerivedSources -F/Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator -include /Users/user/Desktop/Code/Newss/Build/Intermediates/PrecompiledHeaders/Newss-Prefix-eslzvnmaebhfetanfvejfwsjqvtr/Newss-Prefix.pch -MMD -MT dependencies -MF /Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/CustomTabBarController.d --serialize-diagnostics /Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/CustomTabBarController.dia -c /Users/user/Desktop/Code/Newss/Newss/CustomTabBarController.m -o /Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/CustomTabBarController.o36"97D2B54F-2045-4209-8923-89F8E033D013-
+b7A448D79-6686-4F33-8B1D-F3BD2112C573
+
+CCompileC Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/JHTableView.o /Users/user/Desktop/Code/Newss/Newss/JHTableView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s429787923.805311
+e429787925.652519
+r1
+xCompileC
+xBuild/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/JHTableView.o
+x/Users/user/Desktop/Code/Newss/Newss/JHTableView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/user/Desktop/Code/Newss/Newss/JHTableView.m
+d/Users/user/Desktop/Code/Newss/Newss/JHTableView.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Compile /Users/user/Desktop/Code/Newss/Newss/JHTableView.m196"CompileC Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/JHTableView.o Newss/JHTableView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler2a3ace130b9eb941^f20ba7150b9eb941^---0#0#1#-19%DVTDocumentLocation2@57"file:///Users/user/Desktop/Code/Newss/Newss/JHTableView.m0000000000000000^3482"CompileC Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/JHTableView.o Newss/JHTableView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/user/Desktop/Code/Newss    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/user/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Newss-generated-files.hmap -I/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Newss-own-target-headers.hmap -I/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Newss-all-target-headers.hmap -iquote /Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Newss-project-headers.hmap -I/Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/DerivedSources/i386 -I/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/DerivedSources -F/Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator -include /Users/user/Desktop/Code/Newss/Build/Intermediates/PrecompiledHeaders/Newss-Prefix-eslzvnmaebhfetanfvejfwsjqvtr/Newss-Prefix.pch -MMD -MT dependencies -MF /Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/JHTableView.d --serialize-diagnostics /Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/JHTableView.dia -c /Users/user/Desktop/Code/Newss/Newss/JHTableView.m -o /Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/JHTableView.o36"28E722D9-9620-4BBE-98CC-90D31142C954-
+b460A1D80-7983-4C20-BF31-5EF111B37CAA
+
+CCompileC Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/MarketViewController.o /Users/user/Desktop/Code/Newss/Newss/MarketViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s429787925.618073
+e429787925.696496
+r1
+xCompileC
+xBuild/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/MarketViewController.o
+x/Users/user/Desktop/Code/Newss/Newss/MarketViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/user/Desktop/Code/Newss/Newss/MarketViewController.m
+d/Users/user/Desktop/Code/Newss/Newss/MarketViewController.h
+d/Users/user/Desktop/Code/Newss/Newss/RootViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Compile /Users/user/Desktop/Code/Newss/Newss/MarketViewController.m214"CompileC Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/MarketViewController.o Newss/MarketViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler834c9e150b9eb941^ad4eb2150b9eb941^---0#0#1#-19%DVTDocumentLocation2@66"file:///Users/user/Desktop/Code/Newss/Newss/MarketViewController.m0000000000000000^3536"CompileC Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/MarketViewController.o Newss/MarketViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/user/Desktop/Code/Newss    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/user/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Newss-generated-files.hmap -I/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Newss-own-target-headers.hmap -I/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Newss-all-target-headers.hmap -iquote /Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Newss-project-headers.hmap -I/Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/DerivedSources/i386 -I/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/DerivedSources -F/Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator -include /Users/user/Desktop/Code/Newss/Build/Intermediates/PrecompiledHeaders/Newss-Prefix-eslzvnmaebhfetanfvejfwsjqvtr/Newss-Prefix.pch -MMD -MT dependencies -MF /Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/MarketViewController.d --serialize-diagnostics /Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/MarketViewController.dia -c /Users/user/Desktop/Code/Newss/Newss/MarketViewController.m -o /Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/MarketViewController.o36"5CD71A6E-C8D4-4407-A26F-1A3D3004C7DC-
+b460A1D80-7983-4C20-BF31-5EF111B37CAA
+
+CCompileC Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/NavButtonModel.o /Users/user/Desktop/Code/Newss/Newss/NavButtonModel.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s429787925.652840
+e429787925.697021
+r1
+xCompileC
+xBuild/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/NavButtonModel.o
+x/Users/user/Desktop/Code/Newss/Newss/NavButtonModel.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/user/Desktop/Code/Newss/Newss/NavButtonModel.m
+d/Users/user/Desktop/Code/Newss/Newss/NavButtonModel.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Compile /Users/user/Desktop/Code/Newss/Newss/NavButtonModel.m202"CompileC Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/NavButtonModel.o Newss/NavButtonModel.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler1632a7150b9eb941^1571b2150b9eb941^---0#0#1#-19%DVTDocumentLocation2@60"file:///Users/user/Desktop/Code/Newss/Newss/NavButtonModel.m0000000000000000^3500"CompileC Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/NavButtonModel.o Newss/NavButtonModel.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/user/Desktop/Code/Newss    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/user/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Newss-generated-files.hmap -I/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Newss-own-target-headers.hmap -I/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Newss-all-target-headers.hmap -iquote /Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Newss-project-headers.hmap -I/Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/DerivedSources/i386 -I/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/DerivedSources -F/Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator -include /Users/user/Desktop/Code/Newss/Build/Intermediates/PrecompiledHeaders/Newss-Prefix-eslzvnmaebhfetanfvejfwsjqvtr/Newss-Prefix.pch -MMD -MT dependencies -MF /Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/NavButtonModel.d --serialize-diagnostics /Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/NavButtonModel.dia -c /Users/user/Desktop/Code/Newss/Newss/NavButtonModel.m -o /Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/NavButtonModel.o36"5C8A1F4D-DC8D-4856-BFE0-1144109287D9-
+b460A1D80-7983-4C20-BF31-5EF111B37CAA
+
+CCompileC Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/NewsViewController.o /Users/user/Desktop/Code/Newss/Newss/NewsViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s429787925.696642
+e429787925.784936
+r1
+xCompileC
+xBuild/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/NewsViewController.o
+x/Users/user/Desktop/Code/Newss/Newss/NewsViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/user/Desktop/Code/Newss/Newss/NewsViewController.m
+d/Users/user/Desktop/Code/Newss/Newss/NewsViewController.h
+d/Users/user/Desktop/Code/Newss/Newss/RootViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Compile /Users/user/Desktop/Code/Newss/Newss/NewsViewController.m210"CompileC Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/NewsViewController.o Newss/NewsViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerb264b2150b9eb941^bff2c8150b9eb941^---0#0#1#-19%DVTDocumentLocation2@64"file:///Users/user/Desktop/Code/Newss/Newss/NewsViewController.m0000000000000000^3524"CompileC Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/NewsViewController.o Newss/NewsViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/user/Desktop/Code/Newss    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/user/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Newss-generated-files.hmap -I/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Newss-own-target-headers.hmap -I/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Newss-all-target-headers.hmap -iquote /Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Newss-project-headers.hmap -I/Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/DerivedSources/i386 -I/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/DerivedSources -F/Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator -include /Users/user/Desktop/Code/Newss/Build/Intermediates/PrecompiledHeaders/Newss-Prefix-eslzvnmaebhfetanfvejfwsjqvtr/Newss-Prefix.pch -MMD -MT dependencies -MF /Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/NewsViewController.d --serialize-diagnostics /Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/NewsViewController.dia -c /Users/user/Desktop/Code/Newss/Newss/NewsViewController.m -o /Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/NewsViewController.o36"B1D312AC-B0AF-4B53-AC28-35C63C64B18E-
+b460A1D80-7983-4C20-BF31-5EF111B37CAA
+
+CCompileC Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/PictureDetailViewController.o /Users/user/Desktop/Code/Newss/Newss/PictureDetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s429787925.617062
+e429787925.658367
+r1
+xCompileC
+xBuild/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/PictureDetailViewController.o
+x/Users/user/Desktop/Code/Newss/Newss/PictureDetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/user/Desktop/Code/Newss/Newss/PictureDetailViewController.m
+d/Users/user/Desktop/Code/Newss/Newss/PictureDetailViewController.h
+d/Users/user/Desktop/Code/Newss/Newss/RootViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Compile /Users/user/Desktop/Code/Newss/Newss/PictureDetailViewController.m228"CompileC Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/PictureDetailViewController.o Newss/PictureDetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilere0149e150b9eb941^f08aa8150b9eb941^---0#0#1#-19%DVTDocumentLocation2@73"file:///Users/user/Desktop/Code/Newss/Newss/PictureDetailViewController.m0000000000000000^3578"CompileC Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/PictureDetailViewController.o Newss/PictureDetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/user/Desktop/Code/Newss    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/user/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Newss-generated-files.hmap -I/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Newss-own-target-headers.hmap -I/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Newss-all-target-headers.hmap -iquote /Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Newss-project-headers.hmap -I/Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/DerivedSources/i386 -I/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/DerivedSources -F/Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator -include /Users/user/Desktop/Code/Newss/Build/Intermediates/PrecompiledHeaders/Newss-Prefix-eslzvnmaebhfetanfvejfwsjqvtr/Newss-Prefix.pch -MMD -MT dependencies -MF /Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/PictureDetailViewController.d --serialize-diagnostics /Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/PictureDetailViewController.dia -c /Users/user/Desktop/Code/Newss/Newss/PictureDetailViewController.m -o /Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/PictureDetailViewController.o36"D0407A30-3596-4729-990F-16E88C7DC841-
+b460A1D80-7983-4C20-BF31-5EF111B37CAA
+
+CCompileC Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/PictureViewController.o /Users/user/Desktop/Code/Newss/Newss/PictureViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s429787923.805804
+e429787925.574980
+r1
+xCompileC
+xBuild/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/PictureViewController.o
+x/Users/user/Desktop/Code/Newss/Newss/PictureViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/user/Desktop/Code/Newss/Newss/PictureViewController.m
+d/Users/user/Desktop/Code/Newss/Newss/PictureViewController.h
+d/Users/user/Desktop/Code/Newss/Newss/RootViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Compile /Users/user/Desktop/Code/Newss/Newss/PictureViewController.m216"CompileC Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/PictureViewController.o Newss/PictureViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler3257ce130b9eb941^8b3293150b9eb941^---0#0#1#-19%DVTDocumentLocation2@67"file:///Users/user/Desktop/Code/Newss/Newss/PictureViewController.m0000000000000000^3542"CompileC Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/PictureViewController.o Newss/PictureViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/user/Desktop/Code/Newss    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/user/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Newss-generated-files.hmap -I/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Newss-own-target-headers.hmap -I/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Newss-all-target-headers.hmap -iquote /Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Newss-project-headers.hmap -I/Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/DerivedSources/i386 -I/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/DerivedSources -F/Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator -include /Users/user/Desktop/Code/Newss/Build/Intermediates/PrecompiledHeaders/Newss-Prefix-eslzvnmaebhfetanfvejfwsjqvtr/Newss-Prefix.pch -MMD -MT dependencies -MF /Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/PictureViewController.d --serialize-diagnostics /Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/PictureViewController.dia -c /Users/user/Desktop/Code/Newss/Newss/PictureViewController.m -o /Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/PictureViewController.o36"4D3130EB-5A45-450D-BC16-C9D00D5A9485-
+b460A1D80-7983-4C20-BF31-5EF111B37CAA
+
+CCompileC Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/RootViewController.o /Users/user/Desktop/Code/Newss/Newss/RootViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s429788595.932505
+e429788596.390898
+r1
+xCompileC
+xBuild/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/RootViewController.o
+x/Users/user/Desktop/Code/Newss/Newss/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/user/Desktop/Code/Newss/Newss/RootViewController.m
+d/Users/user/Desktop/Code/Newss/Newss/RootViewController.h
+d/Users/user/Desktop/Code/Newss/Newss/Custom.h
+d/Users/user/Desktop/Code/Newss/Newss/NavButtonModel.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Compile /Users/user/Desktop/Code/Newss/Newss/RootViewController.m210"CompileC Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/RootViewController.o Newss/RootViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler40dbeeb30d9eb941^231364b40d9eb941^---0#0#1#-19%DVTDocumentLocation2@64"file:///Users/user/Desktop/Code/Newss/Newss/RootViewController.m0000000000000000^3524"CompileC Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/RootViewController.o Newss/RootViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/user/Desktop/Code/Newss    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/user/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Newss-generated-files.hmap -I/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Newss-own-target-headers.hmap -I/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Newss-all-target-headers.hmap -iquote /Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Newss-project-headers.hmap -I/Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/DerivedSources/i386 -I/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/DerivedSources -F/Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator -include /Users/user/Desktop/Code/Newss/Build/Intermediates/PrecompiledHeaders/Newss-Prefix-eslzvnmaebhfetanfvejfwsjqvtr/Newss-Prefix.pch -MMD -MT dependencies -MF /Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/RootViewController.d --serialize-diagnostics /Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/RootViewController.dia -c /Users/user/Desktop/Code/Newss/Newss/RootViewController.m -o /Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/RootViewController.o36"4EEAD112-C265-470E-86C1-EE5AFCBC0DFC-
+b10E7E62B-1FF8-47C6-8EA3-56BE6649E8CB
+
+CCompileC Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/SettingViewController.o /Users/user/Desktop/Code/Newss/Newss/SettingViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s429787925.658874
+e429787925.722892
+r1
+xCompileC
+xBuild/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/SettingViewController.o
+x/Users/user/Desktop/Code/Newss/Newss/SettingViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/user/Desktop/Code/Newss/Newss/SettingViewController.m
+d/Users/user/Desktop/Code/Newss/Newss/SettingViewController.h
+d/Users/user/Desktop/Code/Newss/Newss/RootViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Compile /Users/user/Desktop/Code/Newss/Newss/SettingViewController.m216"CompileC Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/SettingViewController.o Newss/SettingViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilera1bba8150b9eb941^c70fb9150b9eb941^---0#0#1#-19%DVTDocumentLocation2@67"file:///Users/user/Desktop/Code/Newss/Newss/SettingViewController.m0000000000000000^3542"CompileC Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/SettingViewController.o Newss/SettingViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/user/Desktop/Code/Newss    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/user/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Newss-generated-files.hmap -I/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Newss-own-target-headers.hmap -I/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Newss-all-target-headers.hmap -iquote /Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Newss-project-headers.hmap -I/Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/DerivedSources/i386 -I/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/DerivedSources -F/Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator -include /Users/user/Desktop/Code/Newss/Build/Intermediates/PrecompiledHeaders/Newss-Prefix-eslzvnmaebhfetanfvejfwsjqvtr/Newss-Prefix.pch -MMD -MT dependencies -MF /Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/SettingViewController.d --serialize-diagnostics /Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/SettingViewController.dia -c /Users/user/Desktop/Code/Newss/Newss/SettingViewController.m -o /Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/SettingViewController.o36"07052A89-0872-45EC-B5F0-6580A5FA2637-
+b460A1D80-7983-4C20-BF31-5EF111B37CAA
+
+CCompileC Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/VideoViewController.o /Users/user/Desktop/Code/Newss/Newss/VideoViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s429787925.575714
+e429787925.695298
+r1
+xCompileC
+xBuild/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/VideoViewController.o
+x/Users/user/Desktop/Code/Newss/Newss/VideoViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/user/Desktop/Code/Newss/Newss/VideoViewController.m
+d/Users/user/Desktop/Code/Newss/Newss/VideoViewController.h
+d/Users/user/Desktop/Code/Newss/Newss/RootViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Compile /Users/user/Desktop/Code/Newss/Newss/VideoViewController.m212"CompileC Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/VideoViewController.o Newss/VideoViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler217593150b9eb941^1900b2150b9eb941^---0#0#1#-19%DVTDocumentLocation2@65"file:///Users/user/Desktop/Code/Newss/Newss/VideoViewController.m0000000000000000^3530"CompileC Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/VideoViewController.o Newss/VideoViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/user/Desktop/Code/Newss    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/user/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Newss-generated-files.hmap -I/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Newss-own-target-headers.hmap -I/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Newss-all-target-headers.hmap -iquote /Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Newss-project-headers.hmap -I/Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/DerivedSources/i386 -I/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/DerivedSources -F/Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator -include /Users/user/Desktop/Code/Newss/Build/Intermediates/PrecompiledHeaders/Newss-Prefix-eslzvnmaebhfetanfvejfwsjqvtr/Newss-Prefix.pch -MMD -MT dependencies -MF /Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/VideoViewController.d --serialize-diagnostics /Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/VideoViewController.dia -c /Users/user/Desktop/Code/Newss/Newss/VideoViewController.m -o /Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/VideoViewController.o36"80C29663-52F4-48BB-90C7-F541D0A26C13-
+b460A1D80-7983-4C20-BF31-5EF111B37CAA
+
+CCompileC Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/main.o /Users/user/Desktop/Code/Newss/Newss/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s429616749.779108
+e429616750.535867
+r1
+xCompileC
+xBuild/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/main.o
+x/Users/user/Desktop/Code/Newss/Newss/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/user/Desktop/Code/Newss/Newss/main.m
+d/Users/user/Desktop/Code/Newss/Newss/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Compile /Users/user/Desktop/Code/Newss/Newss/main.m182"CompileC Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/main.o Newss/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler8c83c76d6e9bb941^a12f896e6e9bb941^---0#0#1#-19%DVTDocumentLocation2@50"file:///Users/user/Desktop/Code/Newss/Newss/main.m0000000000000000^3440"CompileC Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/main.o Newss/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/user/Desktop/Code/Newss    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/user/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Newss-generated-files.hmap -I/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Newss-own-target-headers.hmap -I/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Newss-all-target-headers.hmap -iquote /Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Newss-project-headers.hmap -I/Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/DerivedSources/i386 -I/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/DerivedSources -F/Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator -include /Users/user/Desktop/Code/Newss/Build/Intermediates/PrecompiledHeaders/Newss-Prefix-eslzvnmaebhfetanfvejfwsjqvtr/Newss-Prefix.pch -MMD -MT dependencies -MF /Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/main.dia -c /Users/user/Desktop/Code/Newss/Newss/main.m -o /Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/main.o36"38FEE0EC-5CF5-48B9-995A-5580BF5E9B6C-
+b84AFE50F-BEA5-40B1-B108-52F61C11E5FA
+
+CCopyPlistFile /Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app/tabBar.plist Newss/tabimage/tabBar.plist
+s429787926.348273
+e429787926.422035
+r1
+xCopyPlistFile
+x/Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app/tabBar.plist
+xNewss/tabimage/tabBar.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection32"Copy Newss/tabimage/tabBar.plist101"CopyPlistFile Build/Products/Debug-iphonesimulator/Newss.app/tabBar.plist Newss/tabimage/tabBar.plista7745c160b9eb941^fe0b6c160b9eb941^---0#0#1#-19%DVTDocumentLocation2@65"file:///Users/user/Desktop/Code/Newss/Newss/tabimage/tabBar.plist0000000000000000^493"CopyPlistFile Build/Products/Debug-iphonesimulator/Newss.app/tabBar.plist Newss/tabimage/tabBar.plist    cd /Users/user/Desktop/Code/Newss    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyPlist --convert binary1 --outdir /Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app -- Newss/tabimage/tabBar.plist36"BF00747C-015E-4834-845C-C0F6DA6D35AD-
+b460A1D80-7983-4C20-BF31-5EF111B37CAA
+
+CCopyStringsFile /Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app/en.lproj/InfoPlist.strings Newss/en.lproj/InfoPlist.strings
+s429616752.037748
+e429616752.116732
+r1
+xCopyStringsFile
+x/Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app/en.lproj/InfoPlist.strings
+xNewss/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Copy Newss/en.lproj/InfoPlist.strings122"CopyStringsFile Build/Products/Debug-iphonesimulator/Newss.app/en.lproj/InfoPlist.strings Newss/en.lproj/InfoPlist.strings88f20d706e9bb941^efe21d706e9bb941^---0#0#1#-19%DVTDocumentLocation2@70"file:///Users/user/Desktop/Code/Newss/Newss/en.lproj/InfoPlist.strings0000000000000000^569"CopyStringsFile Build/Products/Debug-iphonesimulator/Newss.app/en.lproj/InfoPlist.strings Newss/en.lproj/InfoPlist.strings    cd /Users/user/Desktop/Code/Newss    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app/en.lproj -- Newss/en.lproj/InfoPlist.strings36"903ADCD2-BB8B-4391-8C17-5B2E44052803-
+b84AFE50F-BEA5-40B1-B108-52F61C11E5FA
+
+CCpResource Newss/nav/naviback_n@2x.png Build/Products/Debug-iphonesimulator/Newss.app/naviback_n@2x.png
+s429787926.427366
+e429787926.428906
+r1
+xCpResource
+xNewss/nav/naviback_n@2x.png
+xBuild/Products/Debug-iphonesimulator/Newss.app/naviback_n@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Copy Build/Products/Debug-iphonesimulator/Newss.app/naviback_n@2x.png103"CpResource Newss/nav/naviback_n@2x.png Build/Products/Debug-iphonesimulator/Newss.app/naviback_n@2x.png3f706d160b9eb941^2dcd6d160b9eb941^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app/naviback_n@2x.png00345cb2deffdf42^586"CpResource Newss/nav/naviback_n@2x.png Build/Products/Debug-iphonesimulator/Newss.app/naviback_n@2x.png    cd /Users/user/Desktop/Code/Newss    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/user/Desktop/Code/Newss/Newss/nav/naviback_n@2x.png /Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app36"FF5CBAA3-21FA-4131-B7DA-33491AA2F62A-
+b460A1D80-7983-4C20-BF31-5EF111B37CAA
+
+CCpResource Newss/nav/navibarbackground@2x.png Build/Products/Debug-iphonesimulator/Newss.app/navibarbackground@2x.png
+s429787926.348679
+e429787926.409956
+r1
+xCpResource
+xNewss/nav/navibarbackground@2x.png
+xBuild/Products/Debug-iphonesimulator/Newss.app/navibarbackground@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Copy Build/Products/Debug-iphonesimulator/Newss.app/navibarbackground@2x.png117"CpResource Newss/nav/navibarbackground@2x.png Build/Products/Debug-iphonesimulator/Newss.app/navibarbackground@2x.pngbd735c160b9eb941^73f468160b9eb941^---0#0#1#-19%DVTDocumentLocation2@109"file:///Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app/navibarbackground@2x.png00345cb2deffdf42^607"CpResource Newss/nav/navibarbackground@2x.png Build/Products/Debug-iphonesimulator/Newss.app/navibarbackground@2x.png    cd /Users/user/Desktop/Code/Newss    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/user/Desktop/Code/Newss/Newss/nav/navibarbackground@2x.png /Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app36"6D167999-AA9E-4D41-9CF9-A2A26BEA3CEB-
+b460A1D80-7983-4C20-BF31-5EF111B37CAA
+
+CCpResource Newss/navItemimage/comBtn.png Build/Products/Debug-iphonesimulator/Newss.app/comBtn.png
+s429787926.428313
+e429787926.429335
+r1
+xCpResource
+xNewss/navItemimage/comBtn.png
+xBuild/Products/Debug-iphonesimulator/Newss.app/comBtn.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Copy Build/Products/Debug-iphonesimulator/Newss.app/comBtn.png98"CpResource Newss/navItemimage/comBtn.png Build/Products/Debug-iphonesimulator/Newss.app/comBtn.pngebad6d160b9eb941^9fe56d160b9eb941^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app/comBtn.png00345cb2deffdf42^583"CpResource Newss/navItemimage/comBtn.png Build/Products/Debug-iphonesimulator/Newss.app/comBtn.png    cd /Users/user/Desktop/Code/Newss    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/user/Desktop/Code/Newss/Newss/navItemimage/comBtn.png /Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app36"8F0DA46C-096B-4C2F-A463-461F50CE3E0E-
+b460A1D80-7983-4C20-BF31-5EF111B37CAA
+
+CCpResource Newss/navItemimage/favorite1.png Build/Products/Debug-iphonesimulator/Newss.app/favorite1.png
+s429787926.422155
+e429787926.424095
+r1
+xCpResource
+xNewss/navItemimage/favorite1.png
+xBuild/Products/Debug-iphonesimulator/Newss.app/favorite1.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Copy Build/Products/Debug-iphonesimulator/Newss.app/favorite1.png104"CpResource Newss/navItemimage/favorite1.png Build/Products/Debug-iphonesimulator/Newss.app/favorite1.pnge71c6c160b9eb941^779e6c160b9eb941^---0#0#1#-19%DVTDocumentLocation2@98"file:///Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app/favorite1.png00345cb2deffdf42^592"CpResource Newss/navItemimage/favorite1.png Build/Products/Debug-iphonesimulator/Newss.app/favorite1.png    cd /Users/user/Desktop/Code/Newss    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/user/Desktop/Code/Newss/Newss/navItemimage/favorite1.png /Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app36"541D2366-0DD6-4CE8-ADF6-6EC9AC044D0C-
+b460A1D80-7983-4C20-BF31-5EF111B37CAA
+
+CCpResource Newss/navItemimage/favorite2.png Build/Products/Debug-iphonesimulator/Newss.app/favorite2.png
+s429787926.411929
+e429787926.413937
+r1
+xCpResource
+xNewss/navItemimage/favorite2.png
+xBuild/Products/Debug-iphonesimulator/Newss.app/favorite2.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Copy Build/Products/Debug-iphonesimulator/Newss.app/favorite2.png104"CpResource Newss/navItemimage/favorite2.png Build/Products/Debug-iphonesimulator/Newss.app/favorite2.pngaa7e69160b9eb941^ef016a160b9eb941^---0#0#1#-19%DVTDocumentLocation2@98"file:///Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app/favorite2.png00345cb2deffdf42^592"CpResource Newss/navItemimage/favorite2.png Build/Products/Debug-iphonesimulator/Newss.app/favorite2.png    cd /Users/user/Desktop/Code/Newss    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/user/Desktop/Code/Newss/Newss/navItemimage/favorite2.png /Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app36"E6361CE0-E9F3-44D7-9CCB-883CF8F4C898-
+b460A1D80-7983-4C20-BF31-5EF111B37CAA
+
+CCpResource Newss/navItemimage/photo_down.png Build/Products/Debug-iphonesimulator/Newss.app/photo_down.png
+s429787926.412717
+e429787926.413900
+r1
+xCpResource
+xNewss/navItemimage/photo_down.png
+xBuild/Products/Debug-iphonesimulator/Newss.app/photo_down.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Copy Build/Products/Debug-iphonesimulator/Newss.app/photo_down.png106"CpResource Newss/navItemimage/photo_down.png Build/Products/Debug-iphonesimulator/Newss.app/photo_down.png14b069160b9eb941^22fe69160b9eb941^---0#0#1#-19%DVTDocumentLocation2@99"file:///Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app/photo_down.png00345cb2deffdf42^595"CpResource Newss/navItemimage/photo_down.png Build/Products/Debug-iphonesimulator/Newss.app/photo_down.png    cd /Users/user/Desktop/Code/Newss    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/user/Desktop/Code/Newss/Newss/navItemimage/photo_down.png /Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app36"DA132D63-DC0F-4150-AE0F-43D8FB82BE84-
+b460A1D80-7983-4C20-BF31-5EF111B37CAA
+
+CCpResource Newss/navItemimage/returnBackground.png Build/Products/Debug-iphonesimulator/Newss.app/returnBackground.png
+s429787926.348089
+e429787926.395921
+r1
+xCpResource
+xNewss/navItemimage/returnBackground.png
+xBuild/Products/Debug-iphonesimulator/Newss.app/returnBackground.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Copy Build/Products/Debug-iphonesimulator/Newss.app/returnBackground.png118"CpResource Newss/navItemimage/returnBackground.png Build/Products/Debug-iphonesimulator/Newss.app/returnBackground.png79735c160b9eb941^855c65160b9eb941^---0#0#1#-19%DVTDocumentLocation2@105"file:///Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app/returnBackground.png00345cb2deffdf42^613"CpResource Newss/navItemimage/returnBackground.png Build/Products/Debug-iphonesimulator/Newss.app/returnBackground.png    cd /Users/user/Desktop/Code/Newss    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/user/Desktop/Code/Newss/Newss/navItemimage/returnBackground.png /Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app36"5FC59247-3A2A-4332-BFCC-0955BB2C9446-
+b460A1D80-7983-4C20-BF31-5EF111B37CAA
+
+CCpResource Newss/navItemimage/searchItem.png Build/Products/Debug-iphonesimulator/Newss.app/searchItem.png
+s429787926.414166
+e429787926.424081
+r1
+xCpResource
+xNewss/navItemimage/searchItem.png
+xBuild/Products/Debug-iphonesimulator/Newss.app/searchItem.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Copy Build/Products/Debug-iphonesimulator/Newss.app/searchItem.png106"CpResource Newss/navItemimage/searchItem.png Build/Products/Debug-iphonesimulator/Newss.app/searchItem.png49106a160b9eb941^ea936c160b9eb941^---0#0#1#-19%DVTDocumentLocation2@99"file:///Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app/searchItem.png00345cb2deffdf42^595"CpResource Newss/navItemimage/searchItem.png Build/Products/Debug-iphonesimulator/Newss.app/searchItem.png    cd /Users/user/Desktop/Code/Newss    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/user/Desktop/Code/Newss/Newss/navItemimage/searchItem.png /Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app36"12AA4DBD-E8BE-4730-A243-82803E030E47-
+b460A1D80-7983-4C20-BF31-5EF111B37CAA
+
+CCpResource Newss/navItemimage/share.png Build/Products/Debug-iphonesimulator/Newss.app/share.png
+s429787926.414041
+e429787926.424052
+r1
+xCpResource
+xNewss/navItemimage/share.png
+xBuild/Products/Debug-iphonesimulator/Newss.app/share.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Copy Build/Products/Debug-iphonesimulator/Newss.app/share.png96"CpResource Newss/navItemimage/share.png Build/Products/Debug-iphonesimulator/Newss.app/share.pngbb0d6a160b9eb941^19916c160b9eb941^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app/share.png00345cb2deffdf42^580"CpResource Newss/navItemimage/share.png Build/Products/Debug-iphonesimulator/Newss.app/share.png    cd /Users/user/Desktop/Code/Newss    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/user/Desktop/Code/Newss/Newss/navItemimage/share.png /Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app36"86A20D12-1A7B-4F8B-93DB-F450FCD426E2-
+b460A1D80-7983-4C20-BF31-5EF111B37CAA
+
+CCpResource Newss/tabimage/AppIcon57x57.png Build/Products/Debug-iphonesimulator/Newss.app/AppIcon57x57.png
+s429787926.348153
+e429787926.412612
+r1
+xCpResource
+xNewss/tabimage/AppIcon57x57.png
+xBuild/Products/Debug-iphonesimulator/Newss.app/AppIcon57x57.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Copy Build/Products/Debug-iphonesimulator/Newss.app/AppIcon57x57.png106"CpResource Newss/tabimage/AppIcon57x57.png Build/Products/Debug-iphonesimulator/Newss.app/AppIcon57x57.png32745c160b9eb941^51a269160b9eb941^---0#0#1#-19%DVTDocumentLocation2@101"file:///Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app/AppIcon57x57.png00345cb2deffdf42^593"CpResource Newss/tabimage/AppIcon57x57.png Build/Products/Debug-iphonesimulator/Newss.app/AppIcon57x57.png    cd /Users/user/Desktop/Code/Newss    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/user/Desktop/Code/Newss/Newss/tabimage/AppIcon57x57.png /Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app36"AF6D7BAA-555C-4D32-B9FF-771BAA83C9A9-
+b460A1D80-7983-4C20-BF31-5EF111B37CAA
+
+CCpResource Newss/tabimage/AppIcon57x57@2x.png Build/Products/Debug-iphonesimulator/Newss.app/AppIcon57x57@2x.png
+s429787926.425407
+e429787926.427256
+r1
+xCpResource
+xNewss/tabimage/AppIcon57x57@2x.png
+xBuild/Products/Debug-iphonesimulator/Newss.app/AppIcon57x57@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Copy Build/Products/Debug-iphonesimulator/Newss.app/AppIcon57x57@2x.png112"CpResource Newss/tabimage/AppIcon57x57@2x.png Build/Products/Debug-iphonesimulator/Newss.app/AppIcon57x57@2x.pngaaef6c160b9eb941^b6646d160b9eb941^---0#0#1#-19%DVTDocumentLocation2@104"file:///Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app/AppIcon57x57@2x.png00345cb2deffdf42^602"CpResource Newss/tabimage/AppIcon57x57@2x.png Build/Products/Debug-iphonesimulator/Newss.app/AppIcon57x57@2x.png    cd /Users/user/Desktop/Code/Newss    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/user/Desktop/Code/Newss/Newss/tabimage/AppIcon57x57@2x.png /Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app36"135F0DCB-154D-4C47-BC40-DFE6AAEF7D42-
+b460A1D80-7983-4C20-BF31-5EF111B37CAA
+
+CCpResource Newss/tabimage/btnI-h.png Build/Products/Debug-iphonesimulator/Newss.app/btnI-h.png
+s429787926.428787
+e429787926.431501
+r1
+xCpResource
+xNewss/tabimage/btnI-h.png
+xBuild/Products/Debug-iphonesimulator/Newss.app/btnI-h.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Copy Build/Products/Debug-iphonesimulator/Newss.app/btnI-h.png94"CpResource Newss/tabimage/btnI-h.png Build/Products/Debug-iphonesimulator/Newss.app/btnI-h.png20d46d160b9eb941^3e776e160b9eb941^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app/btnI-h.png00345cb2deffdf42^575"CpResource Newss/tabimage/btnI-h.png Build/Products/Debug-iphonesimulator/Newss.app/btnI-h.png    cd /Users/user/Desktop/Code/Newss    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/user/Desktop/Code/Newss/Newss/tabimage/btnI-h.png /Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app36"BC3E7994-1C8E-44D5-B9AD-C605390055D3-
+b460A1D80-7983-4C20-BF31-5EF111B37CAA
+
+CCpResource Newss/tabimage/btnI-n.png Build/Products/Debug-iphonesimulator/Newss.app/btnI-n.png
+s429787926.410093
+e429787926.413898
+r1
+xCpResource
+xNewss/tabimage/btnI-n.png
+xBuild/Products/Debug-iphonesimulator/Newss.app/btnI-n.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Copy Build/Products/Debug-iphonesimulator/Newss.app/btnI-n.png94"CpResource Newss/tabimage/btnI-n.png Build/Products/Debug-iphonesimulator/Newss.app/btnI-n.png570669160b9eb941^0ef769160b9eb941^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app/btnI-n.png00345cb2deffdf42^575"CpResource Newss/tabimage/btnI-n.png Build/Products/Debug-iphonesimulator/Newss.app/btnI-n.png    cd /Users/user/Desktop/Code/Newss    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/user/Desktop/Code/Newss/Newss/tabimage/btnI-n.png /Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app36"D7D83E89-D2AB-42FE-94EF-1440A5C81003-
+b460A1D80-7983-4C20-BF31-5EF111B37CAA
+
+CCpResource Newss/tabimage/btnM-h.png Build/Products/Debug-iphonesimulator/Newss.app/btnM-h.png
+s429787926.406697
+e429787926.411796
+r1
+xCpResource
+xNewss/tabimage/btnM-h.png
+xBuild/Products/Debug-iphonesimulator/Newss.app/btnM-h.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Copy Build/Products/Debug-iphonesimulator/Newss.app/btnM-h.png94"CpResource Newss/tabimage/btnM-h.png Build/Products/Debug-iphonesimulator/Newss.app/btnM-h.png0b2868160b9eb941^096d69160b9eb941^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app/btnM-h.png00345cb2deffdf42^575"CpResource Newss/tabimage/btnM-h.png Build/Products/Debug-iphonesimulator/Newss.app/btnM-h.png    cd /Users/user/Desktop/Code/Newss    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/user/Desktop/Code/Newss/Newss/tabimage/btnM-h.png /Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app36"D012C5F8-703E-4D7C-82BF-CBBD2D10856E-
+b460A1D80-7983-4C20-BF31-5EF111B37CAA
+
+CCpResource Newss/tabimage/btnM-n.png Build/Products/Debug-iphonesimulator/Newss.app/btnM-n.png
+s429787926.424347
+e429787926.427016
+r1
+xCpResource
+xNewss/tabimage/btnM-n.png
+xBuild/Products/Debug-iphonesimulator/Newss.app/btnM-n.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Copy Build/Products/Debug-iphonesimulator/Newss.app/btnM-n.png94"CpResource Newss/tabimage/btnM-n.png Build/Products/Debug-iphonesimulator/Newss.app/btnM-n.pnga4ab6c160b9eb941^00546d160b9eb941^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app/btnM-n.png00345cb2deffdf42^575"CpResource Newss/tabimage/btnM-n.png Build/Products/Debug-iphonesimulator/Newss.app/btnM-n.png    cd /Users/user/Desktop/Code/Newss    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/user/Desktop/Code/Newss/Newss/tabimage/btnM-n.png /Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app36"ACD5114B-5E77-4FB8-A638-FC38761817F4-
+b460A1D80-7983-4C20-BF31-5EF111B37CAA
+
+CCpResource Newss/tabimage/btnP-h.png Build/Products/Debug-iphonesimulator/Newss.app/btnP-h.png
+s429787926.424523
+e429787926.427103
+r1
+xCpResource
+xNewss/tabimage/btnP-h.png
+xBuild/Products/Debug-iphonesimulator/Newss.app/btnP-h.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Copy Build/Products/Debug-iphonesimulator/Newss.app/btnP-h.png94"CpResource Newss/tabimage/btnP-h.png Build/Products/Debug-iphonesimulator/Newss.app/btnP-h.png41b66c160b9eb941^c05e6d160b9eb941^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app/btnP-h.png00345cb2deffdf42^575"CpResource Newss/tabimage/btnP-h.png Build/Products/Debug-iphonesimulator/Newss.app/btnP-h.png    cd /Users/user/Desktop/Code/Newss    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/user/Desktop/Code/Newss/Newss/tabimage/btnP-h.png /Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app36"EBAD921E-BD13-4FB8-8BF8-5D18634A4CB9-
+b460A1D80-7983-4C20-BF31-5EF111B37CAA
+
+CCpResource Newss/tabimage/btnP-n.png Build/Products/Debug-iphonesimulator/Newss.app/btnP-n.png
+s429787926.427237
+e429787926.428710
+r1
+xCpResource
+xNewss/tabimage/btnP-n.png
+xBuild/Products/Debug-iphonesimulator/Newss.app/btnP-n.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Copy Build/Products/Debug-iphonesimulator/Newss.app/btnP-n.png94"CpResource Newss/tabimage/btnP-n.png Build/Products/Debug-iphonesimulator/Newss.app/btnP-n.pngec6b6d160b9eb941^44c06d160b9eb941^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app/btnP-n.png00345cb2deffdf42^575"CpResource Newss/tabimage/btnP-n.png Build/Products/Debug-iphonesimulator/Newss.app/btnP-n.png    cd /Users/user/Desktop/Code/Newss    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/user/Desktop/Code/Newss/Newss/tabimage/btnP-n.png /Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app36"C77AC838-1E46-4ED0-88A9-33AF6AEA7114-
+b460A1D80-7983-4C20-BF31-5EF111B37CAA
+
+CCpResource Newss/tabimage/btnQ-h.png Build/Products/Debug-iphonesimulator/Newss.app/btnQ-h.png
+s429787926.396066
+e429787926.406552
+r1
+xCpResource
+xNewss/tabimage/btnQ-h.png
+xBuild/Products/Debug-iphonesimulator/Newss.app/btnQ-h.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Copy Build/Products/Debug-iphonesimulator/Newss.app/btnQ-h.png94"CpResource Newss/tabimage/btnQ-h.png Build/Products/Debug-iphonesimulator/Newss.app/btnQ-h.png336f65160b9eb941^3c1568160b9eb941^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app/btnQ-h.png00345cb2deffdf42^575"CpResource Newss/tabimage/btnQ-h.png Build/Products/Debug-iphonesimulator/Newss.app/btnQ-h.png    cd /Users/user/Desktop/Code/Newss    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/user/Desktop/Code/Newss/Newss/tabimage/btnQ-h.png /Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app36"C50EC45E-B35A-4B6C-A0DF-D4BA63881D98-
+b460A1D80-7983-4C20-BF31-5EF111B37CAA
+
+CCpResource Newss/tabimage/btnQ-n.png Build/Products/Debug-iphonesimulator/Newss.app/btnQ-n.png
+s429787926.427513
+e429787926.429045
+r1
+xCpResource
+xNewss/tabimage/btnQ-n.png
+xBuild/Products/Debug-iphonesimulator/Newss.app/btnQ-n.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Copy Build/Products/Debug-iphonesimulator/Newss.app/btnQ-n.png94"CpResource Newss/tabimage/btnQ-n.png Build/Products/Debug-iphonesimulator/Newss.app/btnQ-n.png1c7c6d160b9eb941^5ad66d160b9eb941^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app/btnQ-n.png00345cb2deffdf42^575"CpResource Newss/tabimage/btnQ-n.png Build/Products/Debug-iphonesimulator/Newss.app/btnQ-n.png    cd /Users/user/Desktop/Code/Newss    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/user/Desktop/Code/Newss/Newss/tabimage/btnQ-n.png /Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app36"FC3C8FA6-1EC6-4B1C-88C2-267A6003AA41-
+b460A1D80-7983-4C20-BF31-5EF111B37CAA
+
+CCpResource Newss/tabimage/btnV-h.png Build/Products/Debug-iphonesimulator/Newss.app/btnV-h.png
+s429787926.424202
+e429787926.427023
+r1
+xCpResource
+xNewss/tabimage/btnV-h.png
+xBuild/Products/Debug-iphonesimulator/Newss.app/btnV-h.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Copy Build/Products/Debug-iphonesimulator/Newss.app/btnV-h.png94"CpResource Newss/tabimage/btnV-h.png Build/Products/Debug-iphonesimulator/Newss.app/btnV-h.pngdfa96c160b9eb941^dd5b6d160b9eb941^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app/btnV-h.png00345cb2deffdf42^575"CpResource Newss/tabimage/btnV-h.png Build/Products/Debug-iphonesimulator/Newss.app/btnV-h.png    cd /Users/user/Desktop/Code/Newss    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/user/Desktop/Code/Newss/Newss/tabimage/btnV-h.png /Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app36"B7C57BC3-2F2D-4E8E-96B4-7F96732334E9-
+b460A1D80-7983-4C20-BF31-5EF111B37CAA
+
+CCpResource Newss/tabimage/btnV-n.png Build/Products/Debug-iphonesimulator/Newss.app/btnV-n.png
+s429787926.414274
+e429787926.424337
+r1
+xCpResource
+xNewss/tabimage/btnV-n.png
+xBuild/Products/Debug-iphonesimulator/Newss.app/btnV-n.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Copy Build/Products/Debug-iphonesimulator/Newss.app/btnV-n.png94"CpResource Newss/tabimage/btnV-n.png Build/Products/Debug-iphonesimulator/Newss.app/btnV-n.pngc2176a160b9eb941^44a26c160b9eb941^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app/btnV-n.png00345cb2deffdf42^575"CpResource Newss/tabimage/btnV-n.png Build/Products/Debug-iphonesimulator/Newss.app/btnV-n.png    cd /Users/user/Desktop/Code/Newss    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/user/Desktop/Code/Newss/Newss/tabimage/btnV-n.png /Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app36"9A21A5F2-DD82-4EBA-9808-CA58F8ED0E7B-
+b460A1D80-7983-4C20-BF31-5EF111B37CAA
+
+CGenerateDSYMFile /Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app.dSYM /Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app/Newss
+s429788596.976024
+e429788597.012153
+r1
+xGenerateDSYMFile
+x/Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app.dSYM
+x/Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app/Newss
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Generate /Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app.dSYM121"GenerateDSYMFile Build/Products/Debug-iphonesimulator/Newss.app.dSYM Build/Products/Debug-iphonesimulator/Newss.app/Newss8ee5f9b40d9eb941^0d1d03b50d9eb941^---0#0#1#-19%DVTDocumentLocation2@90"file:///Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app.dSYM/0000000000000000^625"GenerateDSYMFile Build/Products/Debug-iphonesimulator/Newss.app.dSYM Build/Products/Debug-iphonesimulator/Newss.app/Newss    cd /Users/user/Desktop/Code/Newss    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app/Newss -o /Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app.dSYM36"7DAFD95F-E2FC-4E85-9775-E9D9674C17D4-
+b10E7E62B-1FF8-47C6-8EA3-56BE6649E8CB
+
+CLd /Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app/Newss normal i386
+s429788596.392078
+e429788596.973675
+r1
+xLd
+x/Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app/Newss
+xnormal
+xi386
+d/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/Newss.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/AppDelegate.o
+d/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/PictureViewController.o
+d/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/main.o
+d/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/CustomTabBarController.o
+d/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/VideoViewController.o
+d/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/JHTableView.o
+d/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/Custom.o
+d/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/PictureDetailViewController.o
+d/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/MarketViewController.o
+d/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/RootViewController.o
+d/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/NavButtonModel.o
+d/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/SettingViewController.o
+d/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/CustomTabBar.o
+d/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/NewsViewController.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Link /Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app/Newss67"Ld Build/Products/Debug-iphonesimulator/Newss.app/Newss normal i386386b64b40d9eb941^3544f9b40d9eb941^---0#0#1#--1321"Ld Build/Products/Debug-iphonesimulator/Newss.app/Newss normal i386    cd /Users/user/Desktop/Code/Newss    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator -F/Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator -filelist /Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/Newss.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Objects-normal/i386/Newss_dependency_info.dat -o /Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app/Newss36"F8160315-EF6B-453A-9681-51E6DB23B693-
+b10E7E62B-1FF8-47C6-8EA3-56BE6649E8CB
+
+CProcessInfoPlistFile /Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app/Info.plist /Users/user/Desktop/Code/Newss/Newss/Newss-Info.plist
+s429616763.452193
+e429616763.488801
+r1
+xProcessInfoPlistFile
+x/Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app/Info.plist
+x/Users/user/Desktop/Code/Newss/Newss/Newss-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Process /Users/user/Desktop/Code/Newss/Newss/Newss-Info.plist101"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/Newss.app/Info.plist Newss/Newss-Info.plist1ccf737b6e9bb941^81237d7b6e9bb941^---0#0#1#-19%DVTDocumentLocation2@60"file:///Users/user/Desktop/Code/Newss/Newss/Newss-Info.plist0000000000000000^824"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/Newss.app/Info.plist Newss/Newss-Info.plist    cd /Users/user/Desktop/Code/Newss    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/user/Desktop/Code/Newss/Newss/Newss-Info.plist -genpkginfo /Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/assetcatalog_generated_info.plist -o /Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app/Info.plist36"A6BDE139-0CA9-4382-B439-54B5078B91F2-
+b84AFE50F-BEA5-40B1-B108-52F61C11E5FA
+
+CProcessPCH /Users/user/Desktop/Code/Newss/Build/Intermediates/PrecompiledHeaders/Newss-Prefix-eslzvnmaebhfetanfvejfwsjqvtr/Newss-Prefix.pch.pch Newss/Newss-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s429616748.398904
+e429616749.778406
+r1
+xProcessPCH
+x/Users/user/Desktop/Code/Newss/Build/Intermediates/PrecompiledHeaders/Newss-Prefix-eslzvnmaebhfetanfvejfwsjqvtr/Newss-Prefix.pch.pch
+xNewss/Newss-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/user/Desktop/Code/Newss/Newss/Newss-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection33"Precompile Newss/Newss-Prefix.pch203"ProcessPCH Build/Intermediates/PrecompiledHeaders/Newss-Prefix-eslzvnmaebhfetanfvejfwsjqvtr/Newss-Prefix.pch.pch Newss/Newss-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler5933666c6e9bb941^4546c76d6e9bb941^---0#0#1#-19%DVTDocumentLocation2@60"file:///Users/user/Desktop/Code/Newss/Newss/Newss-Prefix.pch0000000000000000^3363"ProcessPCH Build/Intermediates/PrecompiledHeaders/Newss-Prefix-eslzvnmaebhfetanfvejfwsjqvtr/Newss-Prefix.pch.pch Newss/Newss-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/user/Desktop/Code/Newss    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/user/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Newss-generated-files.hmap -I/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Newss-own-target-headers.hmap -I/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Newss-all-target-headers.hmap -iquote /Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/Newss-project-headers.hmap -I/Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/DerivedSources/i386 -I/Users/user/Desktop/Code/Newss/Build/Intermediates/Newss.build/Debug-iphonesimulator/Newss.build/DerivedSources -F/Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/user/Desktop/Code/Newss/Build/Intermediates/PrecompiledHeaders/Newss-Prefix-eslzvnmaebhfetanfvejfwsjqvtr/Newss-Prefix.pch.dia -MMD -MT dependencies -MF /Users/user/Desktop/Code/Newss/Build/Intermediates/PrecompiledHeaders/Newss-Prefix-eslzvnmaebhfetanfvejfwsjqvtr/Newss-Prefix.pch.d -c /Users/user/Desktop/Code/Newss/Newss/Newss-Prefix.pch -o /Users/user/Desktop/Code/Newss/Build/Intermediates/PrecompiledHeaders/Newss-Prefix-eslzvnmaebhfetanfvejfwsjqvtr/Newss-Prefix.pch.pch36"8E38040B-01AD-4498-BA7A-9CA2EBEAC542-
+b84AFE50F-BEA5-40B1-B108-52F61C11E5FA
+
+CProcessPCH /Users/user/Library/Developer/Xcode/DerivedData/Newss-cqtnxdsvdjmzmodknrwzrbmxylbx/Index/PrecompiledHeaders/Newss-Prefix-dwecpbxjcnrnfbgzcsessbujxzvf_ast/Newss-Prefix.pch.pch Newss/Newss-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/user/Desktop/Code/Newss/Build/Products/Debug-iphonesimulator/Newss.app
+r0
+

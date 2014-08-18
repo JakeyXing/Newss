@@ -8,6 +8,13 @@
 
 #import <UIKit/UIKit.h>
 
-@interface RootViewController : UIViewController
+@interface RootViewController : UIViewController<UITableViewDataSource,UITableViewDelegate>
+{
+    
+    UITableView *_tableView;
+}
+
+- (void)addTitleViewWithTitle:(NSString*)title;
+- (void)addItemWithArray:(NSArray*)array;
 
 @end

@@ -35,7 +35,7 @@
     NSInteger height = 0;
     if ([Custom isIos7Version] == YES) {
         self.automaticallyAdjustsScrollViewInsets = NO;
-        height = 64;
+        //height = 64;
     }
     _tableView = [[UITableView alloc] initWithFrame:CGRectMake(0, height, 320, [Custom currentScreenHeight] - 44 - 64) style:UITableViewStylePlain];
     _tableView.delegate = self;

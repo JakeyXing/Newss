@@ -20,8 +20,24 @@
 		CE08A355199B529500A9489A /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = CE08A353199B529500A9489A /* InfoPlist.strings */; };
 		CE08A357199B529500A9489A /* NewssTests.m in Sources */ = {isa = PBXBuildFile; fileRef = CE08A356199B529500A9489A /* NewssTests.m */; };
 		CE08A362199B547300A9489A /* RootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CE08A361199B547300A9489A /* RootViewController.m */; };
+		CEF3161219B4049900004A02 /* NewsCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = CEF3161119B4049900004A02 /* NewsCell.xib */; };
+		CEF3161519B404C800004A02 /* NewsCell.m in Sources */ = {isa = PBXBuildFile; fileRef = CEF3161419B404C800004A02 /* NewsCell.m */; };
+		CEF60BB519B01866003FE24A /* GDataXMLNode.m in Sources */ = {isa = PBXBuildFile; fileRef = CEF60B9F19B01866003FE24A /* GDataXMLNode.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		CEF60BB619B01866003FE24A /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = CEF60BA119B01866003FE24A /* LICENSE */; };
+		CEF60BB719B01866003FE24A /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = CEF60BA219B01866003FE24A /* README.md */; };
+		CEF60BB819B01866003FE24A /* SDImageCache.m in Sources */ = {isa = PBXBuildFile; fileRef = CEF60BA419B01866003FE24A /* SDImageCache.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		CEF60BB919B01866003FE24A /* SDWebImageDecoder.m in Sources */ = {isa = PBXBuildFile; fileRef = CEF60BA819B01866003FE24A /* SDWebImageDecoder.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		CEF60BBA19B01866003FE24A /* SDWebImageDownloader.m in Sources */ = {isa = PBXBuildFile; fileRef = CEF60BAA19B01866003FE24A /* SDWebImageDownloader.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		CEF60BBB19B01866003FE24A /* SDWebImageManager.m in Sources */ = {isa = PBXBuildFile; fileRef = CEF60BAD19B01866003FE24A /* SDWebImageManager.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		CEF60BBC19B01866003FE24A /* SDWebImagePrefetcher.m in Sources */ = {isa = PBXBuildFile; fileRef = CEF60BB019B01866003FE24A /* SDWebImagePrefetcher.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		CEF60BBD19B01866003FE24A /* UIButton+WebCache.m in Sources */ = {isa = PBXBuildFile; fileRef = CEF60BB219B01866003FE24A /* UIButton+WebCache.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		CEF60BBE19B01866003FE24A /* UIImageView+WebCache.m in Sources */ = {isa = PBXBuildFile; fileRef = CEF60BB419B01866003FE24A /* UIImageView+WebCache.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		CEF60BC019B01922003FE24A /* libxml2.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = CEF60BBF19B01922003FE24A /* libxml2.dylib */; };
+		CEF60BC319B01D3F003FE24A /* NewsModel.m in Sources */ = {isa = PBXBuildFile; fileRef = CEF60BC219B01D3F003FE24A /* NewsModel.m */; };
 		CEFAC871199C5FD800AEA8FF /* Custom.m in Sources */ = {isa = PBXBuildFile; fileRef = CEFAC870199C5FD800AEA8FF /* Custom.m */; };
 		CEFAC874199C643000AEA8FF /* JHTableView.m in Sources */ = {isa = PBXBuildFile; fileRef = CEFAC873199C643000AEA8FF /* JHTableView.m */; };
+		CEFB574B19AF171A00023E63 /* JHHttpRequest.m in Sources */ = {isa = PBXBuildFile; fileRef = CEFB574A19AF171A00023E63 /* JHHttpRequest.m */; };
+		CEFB574E19AF194E00023E63 /* JHHRequestManager.m in Sources */ = {isa = PBXBuildFile; fileRef = CEFB574D19AF194E00023E63 /* JHHRequestManager.m */; };
 		CEFBD725199DD94900B8F4C2 /* NavButtonModel.m in Sources */ = {isa = PBXBuildFile; fileRef = CEFBD724199DD94900B8F4C2 /* NavButtonModel.m */; };
 		CEFBD728199DE9F800B8F4C2 /* NewsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CEFBD727199DE9F800B8F4C2 /* NewsViewController.m */; };
 		CEFBD72B199DEA1700B8F4C2 /* MarketViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CEFBD72A199DEA1700B8F4C2 /* MarketViewController.m */; };
@@ -84,10 +100,42 @@
 		CE08A356199B529500A9489A /* NewssTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NewssTests.m; sourceTree = "<group>"; };
 		CE08A360199B547300A9489A /* RootViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RootViewController.h; sourceTree = "<group>"; };
 		CE08A361199B547300A9489A /* RootViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RootViewController.m; sourceTree = "<group>"; };
+		CEF3161119B4049900004A02 /* NewsCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = NewsCell.xib; sourceTree = "<group>"; };
+		CEF3161319B404C800004A02 /* NewsCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NewsCell.h; sourceTree = "<group>"; };
+		CEF3161419B404C800004A02 /* NewsCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NewsCell.m; sourceTree = "<group>"; };
+		CEF60B9E19B01866003FE24A /* GDataXMLNode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GDataXMLNode.h; sourceTree = "<group>"; };
+		CEF60B9F19B01866003FE24A /* GDataXMLNode.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GDataXMLNode.m; sourceTree = "<group>"; };
+		CEF60BA119B01866003FE24A /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		CEF60BA219B01866003FE24A /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
+		CEF60BA319B01866003FE24A /* SDImageCache.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SDImageCache.h; sourceTree = "<group>"; };
+		CEF60BA419B01866003FE24A /* SDImageCache.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SDImageCache.m; sourceTree = "<group>"; };
+		CEF60BA519B01866003FE24A /* SDImageCacheDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SDImageCacheDelegate.h; sourceTree = "<group>"; };
+		CEF60BA619B01866003FE24A /* SDWebImageCompat.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SDWebImageCompat.h; sourceTree = "<group>"; };
+		CEF60BA719B01866003FE24A /* SDWebImageDecoder.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SDWebImageDecoder.h; sourceTree = "<group>"; };
+		CEF60BA819B01866003FE24A /* SDWebImageDecoder.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SDWebImageDecoder.m; sourceTree = "<group>"; };
+		CEF60BA919B01866003FE24A /* SDWebImageDownloader.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SDWebImageDownloader.h; sourceTree = "<group>"; };
+		CEF60BAA19B01866003FE24A /* SDWebImageDownloader.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SDWebImageDownloader.m; sourceTree = "<group>"; };
+		CEF60BAB19B01866003FE24A /* SDWebImageDownloaderDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SDWebImageDownloaderDelegate.h; sourceTree = "<group>"; };
+		CEF60BAC19B01866003FE24A /* SDWebImageManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SDWebImageManager.h; sourceTree = "<group>"; };
+		CEF60BAD19B01866003FE24A /* SDWebImageManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SDWebImageManager.m; sourceTree = "<group>"; };
+		CEF60BAE19B01866003FE24A /* SDWebImageManagerDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SDWebImageManagerDelegate.h; sourceTree = "<group>"; };
+		CEF60BAF19B01866003FE24A /* SDWebImagePrefetcher.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SDWebImagePrefetcher.h; sourceTree = "<group>"; };
+		CEF60BB019B01866003FE24A /* SDWebImagePrefetcher.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SDWebImagePrefetcher.m; sourceTree = "<group>"; };
+		CEF60BB119B01866003FE24A /* UIButton+WebCache.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIButton+WebCache.h"; sourceTree = "<group>"; };
+		CEF60BB219B01866003FE24A /* UIButton+WebCache.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIButton+WebCache.m"; sourceTree = "<group>"; };
+		CEF60BB319B01866003FE24A /* UIImageView+WebCache.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImageView+WebCache.h"; sourceTree = "<group>"; };
+		CEF60BB419B01866003FE24A /* UIImageView+WebCache.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImageView+WebCache.m"; sourceTree = "<group>"; };
+		CEF60BBF19B01922003FE24A /* libxml2.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libxml2.dylib; path = usr/lib/libxml2.dylib; sourceTree = SDKROOT; };
+		CEF60BC119B01D3F003FE24A /* NewsModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NewsModel.h; sourceTree = "<group>"; };
+		CEF60BC219B01D3F003FE24A /* NewsModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NewsModel.m; sourceTree = "<group>"; };
 		CEFAC86F199C5FD800AEA8FF /* Custom.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Custom.h; sourceTree = "<group>"; };
 		CEFAC870199C5FD800AEA8FF /* Custom.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Custom.m; sourceTree = "<group>"; };
 		CEFAC872199C643000AEA8FF /* JHTableView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JHTableView.h; sourceTree = "<group>"; };
 		CEFAC873199C643000AEA8FF /* JHTableView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JHTableView.m; sourceTree = "<group>"; };
+		CEFB574919AF171A00023E63 /* JHHttpRequest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JHHttpRequest.h; sourceTree = "<group>"; };
+		CEFB574A19AF171A00023E63 /* JHHttpRequest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JHHttpRequest.m; sourceTree = "<group>"; };
+		CEFB574C19AF194E00023E63 /* JHHRequestManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JHHRequestManager.h; sourceTree = "<group>"; };
+		CEFB574D19AF194E00023E63 /* JHHRequestManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JHHRequestManager.m; sourceTree = "<group>"; };
 		CEFBD723199DD94900B8F4C2 /* NavButtonModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NavButtonModel.h; sourceTree = "<group>"; };
 		CEFBD724199DD94900B8F4C2 /* NavButtonModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NavButtonModel.m; sourceTree = "<group>"; };
 		CEFBD726199DE9F800B8F4C2 /* NewsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NewsViewController.h; sourceTree = "<group>"; };
@@ -136,6 +184,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CEF60BC019B01922003FE24A /* libxml2.dylib in Frameworks */,
 				CE08A334199B529500A9489A /* CoreGraphics.framework in Frameworks */,
 				CE08A336199B529500A9489A /* UIKit.framework in Frameworks */,
 				CE08A332199B529500A9489A /* Foundation.framework in Frameworks */,
@@ -177,6 +226,7 @@
 		CE08A330199B529500A9489A /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				CEF60BBF19B01922003FE24A /* libxml2.dylib */,
 				CE08A331199B529500A9489A /* Foundation.framework */,
 				CE08A333199B529500A9489A /* CoreGraphics.framework */,
 				CE08A335199B529500A9489A /* UIKit.framework */,
@@ -188,6 +238,7 @@
 		CE08A337199B529500A9489A /* Newss */ = {
 			isa = PBXGroup;
 			children = (
+				CEF60B9C19B0184D003FE24A /* Libs */,
 				CEFAC86C199C5DCE00AEA8FF /* Utility */,
 				CEFAC86B199C5DBC00AEA8FF /* Controllers */,
 				CEFAC86A199C5DB400AEA8FF /* Views */,
@@ -232,11 +283,58 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
+		CEF60B9C19B0184D003FE24A /* Libs */ = {
+			isa = PBXGroup;
+			children = (
+				CEF60B9D19B01866003FE24A /* GData */,
+				CEF60BA019B01866003FE24A /* SDWebImage */,
+			);
+			name = Libs;
+			sourceTree = "<group>";
+		};
+		CEF60B9D19B01866003FE24A /* GData */ = {
+			isa = PBXGroup;
+			children = (
+				CEF60B9E19B01866003FE24A /* GDataXMLNode.h */,
+				CEF60B9F19B01866003FE24A /* GDataXMLNode.m */,
+			);
+			path = GData;
+			sourceTree = "<group>";
+		};
+		CEF60BA019B01866003FE24A /* SDWebImage */ = {
+			isa = PBXGroup;
+			children = (
+				CEF60BA119B01866003FE24A /* LICENSE */,
+				CEF60BA219B01866003FE24A /* README.md */,
+				CEF60BA319B01866003FE24A /* SDImageCache.h */,
+				CEF60BA419B01866003FE24A /* SDImageCache.m */,
+				CEF60BA519B01866003FE24A /* SDImageCacheDelegate.h */,
+				CEF60BA619B01866003FE24A /* SDWebImageCompat.h */,
+				CEF60BA719B01866003FE24A /* SDWebImageDecoder.h */,
+				CEF60BA819B01866003FE24A /* SDWebImageDecoder.m */,
+				CEF60BA919B01866003FE24A /* SDWebImageDownloader.h */,
+				CEF60BAA19B01866003FE24A /* SDWebImageDownloader.m */,
+				CEF60BAB19B01866003FE24A /* SDWebImageDownloaderDelegate.h */,
+				CEF60BAC19B01866003FE24A /* SDWebImageManager.h */,
+				CEF60BAD19B01866003FE24A /* SDWebImageManager.m */,
+				CEF60BAE19B01866003FE24A /* SDWebImageManagerDelegate.h */,
+				CEF60BAF19B01866003FE24A /* SDWebImagePrefetcher.h */,
+				CEF60BB019B01866003FE24A /* SDWebImagePrefetcher.m */,
+				CEF60BB119B01866003FE24A /* UIButton+WebCache.h */,
+				CEF60BB219B01866003FE24A /* UIButton+WebCache.m */,
+				CEF60BB319B01866003FE24A /* UIImageView+WebCache.h */,
+				CEF60BB419B01866003FE24A /* UIImageView+WebCache.m */,
+			);
+			path = SDWebImage;
+			sourceTree = "<group>";
+		};
 		CEFAC869199C5CF200AEA8FF /* Models */ = {
 			isa = PBXGroup;
 			children = (
 				CEFBD723199DD94900B8F4C2 /* NavButtonModel.h */,
 				CEFBD724199DD94900B8F4C2 /* NavButtonModel.m */,
+				CEF60BC119B01D3F003FE24A /* NewsModel.h */,
+				CEF60BC219B01D3F003FE24A /* NewsModel.m */,
 			);
 			name = Models;
 			sourceTree = "<group>";
@@ -248,6 +346,9 @@
 				CEFAC873199C643000AEA8FF /* JHTableView.m */,
 				CEFBD73B199DECBA00B8F4C2 /* CustomTabBar.h */,
 				CEFBD73C199DECBA00B8F4C2 /* CustomTabBar.m */,
+				CEF3161119B4049900004A02 /* NewsCell.xib */,
+				CEF3161319B404C800004A02 /* NewsCell.h */,
+				CEF3161419B404C800004A02 /* NewsCell.m */,
 			);
 			name = Views;
 			sourceTree = "<group>";
@@ -278,6 +379,7 @@
 		CEFAC86C199C5DCE00AEA8FF /* Utility */ = {
 			isa = PBXGroup;
 			children = (
+				CEFB574819AF168F00023E63 /* net */,
 				CEFAC86E199C5DF400AEA8FF /* Net */,
 				CEFAC86D199C5DEB00AEA8FF /* DB */,
 				CEFAC86F199C5FD800AEA8FF /* Custom.h */,
@@ -299,6 +401,17 @@
 			children = (
 			);
 			name = Net;
+			sourceTree = "<group>";
+		};
+		CEFB574819AF168F00023E63 /* net */ = {
+			isa = PBXGroup;
+			children = (
+				CEFB574919AF171A00023E63 /* JHHttpRequest.h */,
+				CEFB574A19AF171A00023E63 /* JHHttpRequest.m */,
+				CEFB574C19AF194E00023E63 /* JHHRequestManager.h */,
+				CEFB574D19AF194E00023E63 /* JHHRequestManager.m */,
+			);
+			name = net;
 			sourceTree = "<group>";
 		};
 		CEFDF3E4199DB70200B921D1 /* nav */ = {
@@ -423,11 +536,14 @@
 				CEFDF405199DB70200B921D1 /* AppIcon57x57.png in Resources */,
 				CEFBD73F199DFDD000B8F4C2 /* tabBar.plist in Resources */,
 				CEFDF3FD199DB70200B921D1 /* navibarbackground@2x.png in Resources */,
+				CEF60BB719B01866003FE24A /* README.md in Resources */,
 				CEFDF40D199DB70200B921D1 /* btnQ-h.png in Resources */,
+				CEF3161219B4049900004A02 /* NewsCell.xib in Resources */,
 				CEFDF409199DB70200B921D1 /* btnM-h.png in Resources */,
 				CEFDF408199DB70200B921D1 /* btnI-n.png in Resources */,
 				CEFDF400199DB70200B921D1 /* favorite2.png in Resources */,
 				CEFDF401199DB70200B921D1 /* photo_down.png in Resources */,
+				CEF60BB619B01866003FE24A /* LICENSE in Resources */,
 				CEFDF404199DB70200B921D1 /* share.png in Resources */,
 				CEFDF403199DB70200B921D1 /* searchItem.png in Resources */,
 				CEFDF410199DB70200B921D1 /* btnV-n.png in Resources */,
@@ -462,17 +578,29 @@
 			buildActionMask = 2147483647;
 			files = (
 				CE08A342199B529500A9489A /* AppDelegate.m in Sources */,
+				CEF60BB819B01866003FE24A /* SDImageCache.m in Sources */,
+				CEF60BBE19B01866003FE24A /* UIImageView+WebCache.m in Sources */,
+				CEFB574B19AF171A00023E63 /* JHHttpRequest.m in Sources */,
 				CEFBD731199DEA3D00B8F4C2 /* PictureViewController.m in Sources */,
+				CEF60BC319B01D3F003FE24A /* NewsModel.m in Sources */,
+				CEF60BBA19B01866003FE24A /* SDWebImageDownloader.m in Sources */,
 				CE08A33E199B529500A9489A /* main.m in Sources */,
 				CEFBD73A199DEAAC00B8F4C2 /* CustomTabBarController.m in Sources */,
 				CEFBD72E199DEA2800B8F4C2 /* VideoViewController.m in Sources */,
+				CEF3161519B404C800004A02 /* NewsCell.m in Sources */,
 				CEFAC874199C643000AEA8FF /* JHTableView.m in Sources */,
 				CEFAC871199C5FD800AEA8FF /* Custom.m in Sources */,
 				CEFBD737199DEA7300B8F4C2 /* PictureDetailViewController.m in Sources */,
 				CEFBD72B199DEA1700B8F4C2 /* MarketViewController.m in Sources */,
 				CE08A362199B547300A9489A /* RootViewController.m in Sources */,
+				CEF60BB919B01866003FE24A /* SDWebImageDecoder.m in Sources */,
+				CEF60BB519B01866003FE24A /* GDataXMLNode.m in Sources */,
+				CEF60BBB19B01866003FE24A /* SDWebImageManager.m in Sources */,
 				CEFBD725199DD94900B8F4C2 /* NavButtonModel.m in Sources */,
+				CEFB574E19AF194E00023E63 /* JHHRequestManager.m in Sources */,
 				CEFBD734199DEA4D00B8F4C2 /* SettingViewController.m in Sources */,
+				CEF60BBC19B01866003FE24A /* SDWebImagePrefetcher.m in Sources */,
+				CEF60BBD19B01866003FE24A /* UIButton+WebCache.m in Sources */,
 				CEFBD73D199DECBA00B8F4C2 /* CustomTabBar.m in Sources */,
 				CEFBD728199DE9F800B8F4C2 /* NewsViewController.m in Sources */,
 			);
@@ -593,6 +721,11 @@
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Newss/Newss-Prefix.pch";
+				HEADER_SEARCH_PATHS = (
+					"$(inherited)",
+					/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include,
+					/usr/include/libxml2,
+				);
 				INFOPLIST_FILE = "Newss/Newss-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
@@ -606,6 +739,11 @@
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Newss/Newss-Prefix.pch";
+				HEADER_SEARCH_PATHS = (
+					"$(inherited)",
+					/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include,
+					/usr/include/libxml2,
+				);
 				INFOPLIST_FILE = "Newss/Newss-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;

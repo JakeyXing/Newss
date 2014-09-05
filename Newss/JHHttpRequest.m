@@ -39,6 +39,7 @@
     NSURL *url = [NSURL URLWithString:_requestUrlString];
     NSURLRequest *request = [NSURLRequest requestWithURL:url];
     _urlConnection = [[NSURLConnection alloc] initWithRequest:request delegate:self];
+    request = nil;
     
 }
 

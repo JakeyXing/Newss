@@ -7,7 +7,7 @@
 //
 
 #import "RootViewController.h"
-
-@interface NewsViewController : RootViewController
+#import "CustomTabBarUp.h"
+@interface NewsViewController : RootViewController<CustomTabBarUpDelegate>
 
 @end

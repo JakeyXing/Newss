@@ -7,7 +7,6 @@
 //
 
 #import "RootViewController.h"
-#import "Custom.h"
 #import "NavButtonModel.h"
 @interface RootViewController ()
 
@@ -41,6 +40,8 @@
     _tableView.delegate = self;
     _tableView.dataSource  = self;
     [self.view addSubview:_tableView];
+    
+    
     
 }
 

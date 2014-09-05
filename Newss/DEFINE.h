@@ -9,7 +9,12 @@
 #ifndef Newss_DEFINE_h
 #define Newss_DEFINE_h
 
-#define NewsUrlString @"http://wiapi.hexun.com/news/getlist4.0.php?pid=100234721&pc=20&pn=1&st=0"
+#define toutiao 100234721
+#define xinwen 100000000
+#define gupiao 100228599
+#define jijing 4
+
+#define NewsUrlString @"http://wiapi.hexun.com/news/getlist4.0.php?pid=%d&pc=20&pn=%d&st=0"
 
 #define PictureUrlString @"http://wiapi.hexun.com/news/gethpv2.php?id=126595066"
 

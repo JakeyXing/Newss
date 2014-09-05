@@ -9,5 +9,9 @@
 #import <UIKit/UIKit.h>
 
 @interface NewsCell : UITableViewCell
+@property (strong, nonatomic) IBOutlet UILabel *newsTiltle;
+@property (strong, nonatomic) IBOutlet UILabel *newsInfo;
+@property (strong, nonatomic) IBOutlet UIImageView *newsImage;
 
+-(void)downImage:(NSString*)imageStr;
 @end
